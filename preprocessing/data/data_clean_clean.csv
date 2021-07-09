@@ -1,0 +1,801 @@
+review,polarity
+"'membantu', 'kondisi', 'pandemi', 'tolong', 'evaluasi', 'ketersedian', 'obat', 'apotek', 'rekanan', 'kota', 'manado', 'resep', 'obat', 'batuk', 'apotek', 'suka', 'habis', 'sia', 'sia', 'konsultasi', 'dokter', 'ujung', 'ujungnya', 'obat', 'resep', 'apotek', 'rugi', 'chat', 'mahal', 'biaya', 'masukan', 'baik', 'pakai', 'fitur', 'chat', 'us', 'pelayanan', 'pelayanan', 'mengubah', 'produk', 'obat', 'menyarankan', 'konsultasi', 'dokterjelek'",negatif
+"'konsultasi', 'dokter', 'bagus', 'durasinya', 'cepat', 'dokternya', 'dokternya', 'chatinganya', 'bantu', 'terimakasih'",negatif
+"'astaga', 'obatnya', 'beli', 'obat', 'harganya', 'masuk', 'akal', 'lipat', 'ulang', 'chat', 'bantuan', 'coba', 'pembayaran', 'resep', 'bank', 'berbeda', 'obatnya', 'gagal', 'solusi', 'penyelesain', 'berulang', 'gagal', 'harga', 'obat', 'masuk', 'akal', 'semoga', 'baik', 'banding', 'pesaing'",negatif
+"'terima kasih', 'pelayananya', 'baik', 'cepat', 'pengirimanya', 'bantu', 'nambahkan', 'pelayanan', 'pengiriman', 'obatnya', 'baik', 'thanks'",positif
+"'menelepon', 'nomor', 'hadiah', 'konfirmasi', 'aplikasi', 'mengadakan', 'hadiah', 'email', 'nomor', 'telepon genggam'",positif
+"'sumpah', 'alternatif', 'miris', 'uang', 'sakit', 'dirasa', 'hemat', 'pakai', 'aplikasi', 'bagus', 'pekerjaan', 'cocok', 'anak', 'kosan'",positif
+"'konfirmasi', 'pelayanan', 'berguna', 'selesai', 'komunikasi', 'ulang', 'di mana', 'kasih', 'bukti', 'screnshotnya', 'ampun', 'ampun', 'munculin', 'aplikasi'",negatif
+"'membantu', 'darurat', 'rumah', 'anak', 'tetiba', 'anak', 'sakit', 'obat', 'habis', 'pesan', 'harga', 'obat', 'enaknya', 'cari', 'murah', 'terima kasih'",positif
+"'suka', 'suka', 'aplikasi', 'berbeda', 'aplikasi', 'sebelah', 'penjelasan', 'rekomendasi', 'obat', 'dokter', 'kesel', 'konsultasi', 'dokter', 'melewatkanya', 'ganti', 'dokter', 'saldo', 'berkurang', 'dikembalikan', 'mohon', 'perhatikan', 'dokter', 'sibuk', 'aktifitasnya', 'menyalakan', 'konsultasi', 'pengguna', 'keadan', 'darurat'",negatif
+"'membantu', 'konsultasi', 'whatsapp', 'pandemi', 'chat', 'respon', 'plus', 'perihal', 'membantu', 'terima', 'kasih'",positif
+"'telepon', 'mengatas', 'nama', 'aneh', 'penelpon', 'email', 'bilang', 'uang', 'juta', 'rupiah', 'aplikasi', 'memprivasi', 'email', 'mengambil', 'keuntungan', 'menipu', 'tolong', 'privasi', 'perketat'",negatif
+"'keren', 'cepat', 'bagus', 'membantu', 'rumah', 'cek', 'kesehatan', 'aman', 'dimasa', 'pandemi', 'covid'",positif
+"'membantu', 'jam', 'anak', 'sakit', 'konsultasi', 'dokter', 'terima', 'kasih', 'adi', 'suryadinata', 'membantu'",positif
+"'membantu', 'mempermudah', 'mencari', 'obat', 'obatan', 'respon', 'cepat', 'pesan', 'terima kasih'",positif
+"'pulang', 'hapus', 'aplikasi', 'kecewa', 'profesional', 'di bagian', 'chat', 'customer', 'terima', 'kasih'",negatif
+"'konsultasi', 'pembayaran', 'pakai', 'gagal', 'keteranganya', 'dana', 'dikembalikan', 'konsultasi', 'coba', 'malas', 'tolong', 'sistem', 'pembayaran', 'diperbaiki'",negatif
+"'membantu', 'pergi', 'rumah', 'sakit', 'antrian', 'dekat sekali', 'aplikasi', 'membantu', 'praktis', 'takut', 'langsung', 'konsultasi', 'dokternya', 'dikasi', 'resep', 'makasi'",positif
+"'ralat', 'kembalikan', 'bayar', 'aplikasi', 'membantu'",negatif
+"'jujur', 'puas', 'nasihat', 'nasihat', 'penjelasan', 'dokternya', 'disayangkan', 'konsultasi', 'aplikasi', 'menit', 'otomatis', 'berhenti'",negatif
+"'membantu', 'obat', 'dicari', 'dibeberapa', 'apotek', 'kosong', 'aplikasi', 'lengkap', 'pemakaian', 'aplikasi', 'mudah', 'thanks'",positif
+"'aplikasi', 'membantu', 'kesehatan', 'produk', 'kesehatan', 'aplikasi', 'konsultasi', 'penyakit', 'beli', 'obat', 'obatan', 'produk', 'kesehatan', 'lainya', 'aplikasi', 'memilih', 'langsung', 'konek', 'akun', 'gojek', 'terima kasih', 'pelayanan', 'sukses', 'bagus'",positif
+"'tolong', 'evaluasi', 'respon', 'email', 'chat', 'transaksi', 'beli', 'gopay', 'kurir', 'mengantar', 'kecewa', 'pengembalian dana'",negatif
+"'aplikasinya', 'bagus', 'Cuma', 'saran', 'adakan', 'opsi', 'pembayaran', 'gerai', 'kaya', 'alfamart', 'indomart', 'membantu', 'remaja', 'orang', 'orang', 'gapunya', 'gopay', 'debit'",positif
+"'bagus', 'aplikasi', 'ketemu', 'kurangnya', 'di mana', 'bagus', 'respon', 'dokternya', 'cepat', 'bagus', 'pertahankan', 'membantu', 'bagus'",positif
+"'aplikasi', 'nomor', 'sulit', 'membantu', 'keliling', 'apotek', 'obat', 'obat', 'jarang', 'tersedia', 'diapotik', 'konsultasi', 'dokter', 'mudah', 'pelayananya', 'ramah'",positif
+"'membantu', 'aplikas', 'khawatir', 'mendadak', 'malam', 'butuh', 'obat', 'membantu'",positif
+"'sangan', 'membantu', 'isoman', 'membeli', 'obat', 'mencegah', 'penularan', 'virus', 'orang', 'bantu'",positif
+"'daftar', 'masukan', 'email', 'nomor', 'telepon', 'masuk', 'nunggu'",negatif
+"'membantu', 'orang', 'malas', 'rumah', 'nunggu', 'antre', 'dokter', 'bagus', 'pelayanan', 'cepat', 'resep', 'akurat'",positif
+"'coba', 'membantu', 'pandemi', 'covid', 'rumah', 'diagnosis', 'beli', 'obat'",positif
+"'memudahkan', 'antre', 'rumah', 'sakit', 'konsultasi', 'aplikasi', 'obat', 'diantar', 'rumah', 'membantu'",positif
+"'bagus', 'membantu', 'pandemi', 'bantu', 'dokter', 'spesialisnya', 'juara', 'juara', 'semoga', 'pertahankan', 'bagus', 'bantu'",positif
+"'admin', 'suntik', 'vaksin', 'dosis', 'tanggal', 'tanggal', 'teman', 'sms', 'suntik', 'vaksin', 'dosis', 'admin', 'mohon', 'pencerahanya'",positif
+"'konsultasi', 'antisipasi', 'rumah', 'membantu', 'terima', 'kasih', 'menyediakan', 'aplikasi'",positif
+"'terbantu', 'aplikasi', 'kemarin', 'cari', 'resep', 'dokter', 'putar', 'putar', 'apotek', 'terdekat', 'ketemu', 'aplikasi', 'terbantu', 'capek', 'capek', 'putar', 'putar'",positif
+"'umur', 'uang', 'konsultasi', 'dokter', 'konsultasi', 'bayar', 'solosi', 'it', 'tolong'",positif
+"'aplikasinya', 'bagus', 'chat', 'psikiatris', 'mudah', 'daring', 'dokternya', 'ramah', 'menghakimi', 'mengerti', 'keadan', 'terima', 'kasih'",positif
+"'terima kasih', 'bermanfaat', 'aplikasi', 'konsultasi', 'dokter', 'mudah'",positif
+"'bagus', 'vaksin', 'kendala', 'efek', 'samping', 'timbul', 'ngantuk', 'divaksin'",positif
+"'kecepatan', 'pengiriman', 'kilat', 'harga', 'obat', 'obatan', 'berbeda', 'apotek', 'langsung', 'bangga'",positif
+"'aplikasinya', 'jelek', 'pesan', 'apotek', 'obatny', 'suruh', 'dibatalkan', 'cancelnya', 'bermasalah', 'telepon', 'pelayanan', 'batalin', 'jam', 'batalinya', 'batal', 'saldo', 'kerja'",negatif
+"'bagus', 'konsultasi', 'dokter', 'rumah', 'sakit', 'khawatir', 'kena', 'covid', 'murah', 'harganya', 'konsultasi'",positif
+"'pelayanan', 'cepat', 'aneh', 'pembayaran', 'memakai', 'kartu', 'kredit', 'kartu', 'tersedia', 'available'",negatif
+"'aplikasi', 'lambat', 'coba', 'uninstal', 'aplikasi', 'telepon genggam', 'aplikasi', 'berat', 'telepon genggam', 'jalan', 'gabagus'",negatif
+"'dokternya', 'hebat', 'hebat', 'jelas', 'fokus', 'keluhan', 'derita', 'terima', 'kasih'",positif
+"'efektif', 'murah', 'bagus'",positif
+"'bagus', 'aplikasi', 'membantu', 'dokter', 'dokternya', 'bagus', 'layanan', 'kesehatan', 'beragam'",positif
+"'respon', 'keluhan', 'tim', 'pelayanan', 'respon', 'ulasan', 'memperbarui', 'respon', 'tim', 'pelayanan', 'cepat'",positif
+"'membantu', 'konsultasi', 'dokter', 'langsung', 'repot', 'rumah', 'sakit', 'faskes', 'terima', 'kasih'",positif
+"'menelpon', 'agen', 'nomor', 'rekening'",positif
+"'bintang', 'kode', 'voucher', 'vaksinasi', 'kasih', 'bintang'",negatif
+"'bagus', 'dokternya', 'responsif', 'lumayan', 'bagus', 'diajak', 'diskusinya', 'logis', 'analisis', 'gugup', 'gugup', 'dokter', 'ketemu', 'senang'",positif
+"'bagus', 'antre', 'sakit', 'chat', 'langsung', 'dibalas', 'obat', 'diantar', 'terima', 'kasih', 'bantu'",positif
+"'puas', 'konsultasi', 'pandemi', 'dokter', 'ramah'",positif
+"'memuaskan', 'balas', 'cepat', 'pilihan', 'dokternya', 'meresepkan', 'obat', 'mahal', 'semoga', 'cocok'",positif
+"'selamat', 'sore', 'admin', 'aplikasi', 'kerjasama', 'medicilin', 'mohon', 'admin', 'terima', 'kasih'",positif
+"'membantu', 'darurat', 'langsung', 'tindakan', 'dokternya', 'ramah', 'terima kasih'",positif
+"'konsultasi', 'putri', 'farisa', 'konsultasi', 'selesai', 'resep', 'obat', 'terima', 'kasih'",positif
+"'suka', 'menu', 'konsultasi', 'dokternya', 'memudahkan', 'mencari', 'informasi', 'kesehatan', 'tubuh'",positif
+"'aplikasi', 'membantubantudokternya', 'ramah', 'ramah', 'profesional', 'sukses'",positif
+"'membantu', 'posisi', 'di luar', 'kota', 'kondisi', 'badan', 'fit', 'susah', 'cari', 'dokter', 'butuh', 'obat', 'sesuai', 'dosis', 'terbantu', 'aplikasi', 'terimakasih', 'bagus'",positif
+"'membantu', 'terbantu', 'dokter', 'konsultasi'",positif
+"'coba', 'gomed', 'cepat', 'respon', 'pengiriman', 'tingkatkan'",positif
+"'bagus', 'konsultasi', 'psikologi', 'baik'",positif
+"'dokternya', 'bagus', 'penjelasanya', 'detail', 'saran', 'saranya', 'obat', 'resep', 'bagus'",positif
+"'pelayananya', 'baik', 'konsultasi', 'bagus', 'puas', 'terima kasih', 'dokter', 'iman', 'terima kasih'",positif
+"'membantu', 'aplikasi', 'lelah', 'rumah', 'dibantu', 'aplikasi', 'bagus'",positif
+"'tangapan', 'lambat', 'mengetik', 'keluhan', 'sokternya', 'chat', 'masuk', 'pakai', 'pangilan', 'suara', 'suaranya', 'perbaiki', 'pemakaian', 'berbayar', 'gratis'",negatif
+"'cangih', 'berobat', 'di mana', 'keren', 'cobain', 'gratis', 'bayar'",positif
+"'kendala', 'boking', 'tes', 'swab', 'antigen', 'kliniknya', 'tutup', 'operasial', 'di mana', 'boking', 'tes', 'swab', 'antigen', 'tim', 'cepat', 'responya', 'menelpon', 'konfirmasi', 'pengembalian dana', 'masukanya', 'kordinasi', 'klinik', 'rumah sakit', 'rekanan', 'ditingkatkan', 'sisanya', 'bagus', 'terima', 'kasih'",positif
+"'pakai', 'langsung', 'merasakan', 'puasnya', 'semoga', 'layananya', 'konsisten', 'prima', 'menambah', 'kepercayanya', 'thanks'",positif
+"'pelayanan', 'pembayaran', 'mengunanakan', 'debit', 'kartu', 'kendala', 'opsi', 'pembayaran'",positif
+"'dengar', 'aplikasi', 'bagus', 'instal', 'masuk', 'apknya', 'ngerespon'",negatif
+"'lumayan', 'lengkap', 'pelayanan', 'cepat', 'aplikasinya', 'mudah', 'membantu'",positif
+"'terima kasih', 'kasih', 'silfia', 'mandasari', 'respon', 'cepat', 'arahan', 'resep', 'bantubagus'",positif
+"'bagus', 'baik', 'respon', 'cepat', 'akurat', 'sukses'",positif
+"'kemudahan', 'rumah', 'sakit', 'obati'",positif
+"'pelayanan', 'dokternya', 'ramah', 'baik', 'cepat', 'balasnya', 'terkesan'",positif
+"'terbantu', 'situasi dan kondisi', 'sukses', 'bagus'",positif
+"'pesan', 'obat', 'dibayar', 'dibatalkan', 'bayar', 'obatnya', 'ratusan', 'ribu'",negatif
+"'pengembalian dana', 'uangnya', 'telepon', 'customer', 'servicenya'",negatif
+"'konsultasi', 'baik', 'bagus', 'konsultasi', 'servicenya', 'parah', 'respon', 'chat', 'luama', 'wktu', 'menit', 'habis', 'menyarankan', 'klinik', 'langsung', 'curahan hati', 'kucing', 'konsultasi', 'mencari', 'solusi', 'kucing', 'aneh', 'aneh', 'bahasanya', 'sopan', 'mangil', 'saudara', 'tolong', 'seleksi', 'rekrut', 'dokter', 'jelek', 'pelayanan', 'jelek'",negatif
+"'pelayanan', 'mengalami', 'kendala', 'menelpon', 'chat', 'tim', 'tolong'",positif
+"'selesai', 'pembayaran', 'sukses', 'terpotong', 'saldo', 'dokternya', 'sibuk', 'pengembalian', 'dana', 'butuh', 'terhitung', 'masuk', 'konfirmasi', 'bank', 'terkait', 'aduh', 'otomatis', 'dana', 'dikembalikan', 'masuk', 'rekening', 'konfirmasi', 'bank', 'sulit', 'tolong', 'permudah', 'pengembalian dana', 'orang', 'rumahnya', 'bankbantu'",negatif
+"'sederhana', 'aplikasi', 'kebutuhan', 'medis', 'pesanya', 'mudah', 'sampainya', 'cepat'",positif
+"'kecewa', 'daftar', 'vaksin', 'lanjut usia', 'ditolak', 'alasan', 'mesti', 'pakai', 'ktp', 'suket', 'domisili', 'vaksinasi', 'suket', 'domisili', 'namanya', 'vaksin', 'gratis', 'warga', 'negara', 'indonesia', 'semoga', 'ulasan', 'dihapus', 'admin'",negatif
+"'terima', 'kasih', 'gojek', 'vaksinasi', 'prambanan', 'bagus', 'pelayananya', 'menyuntik'",positif
+"'profesional', 'terbantu'",positif
+"'bagus', 'konsultasi', 'dokter', 'tatap', 'muka'",positif
+"'konsultasi', 'puas', 'dokter', 'membantu', 'bantu'",positif
+"'bermanfaat', 'cepat', 'respon', 'jempolan'",positif
+"'membantu', 'konsultasi', 'informasi', 'terkait', 'kesehatan'",positif
+"'dokter', 'anaknya', 'cepat', 'respon', 'aplikasinya', 'membantu', 'kondisi'",positif
+"'aplikasi', 'membantu', 'darurat', 'terimakasih', 'ditungu', 'promo', 'menarik'",positif
+"'bagus', 'memudahkan', 'konsultasi', 'dokter', 'spesialis'",positif
+"'aplikasi', 'dokter', 'keluarga', 'sahabat', 'dijangkau', 'berjarak', 'aplikasi', 'sakit', 'pencuri', 'panik', 'pastikan', 'saldo', 'gopay', 'sederhana', 'hub', 'dokter', 'infokan', 'keluhanya', 'dibantu', 'obati', 'menunggu', 'obat', 'dikirim', 'instant', 'beli', 'gojek', 'sunguh', 'terobosan', 'bermanfaat', 'era', 'pandemi', 'berjarak', 'mendekat', 'dokter', 'sukses', 'bagus'",positif
+"'dokter', 'ngelewatin', 'chat', 'gitu', 'terima', 'ajuan', 'saldo', 'diambil', 'uang', 'diambil', 'konsultasi', 'tolong', 'customer', 'servicenya', 'keluhan', 'rugi', 'jelas', 'mengecewakan'",negatif
+"'kemarin', 'tepatnya', 'kamis', 'tanggal', 'maret', 'jam', 'wita', 'telepon', 'mengatasnamakan', 'call', 'servis', 'dokter', 'menginfokan', 'fitur', 'menyuruh', 'aktivasi', 'biaya', 'paket', 'bulanan', 'rp', 'auto', 'debit', 'bank', 'infokan', 'email', 'aktif', 'terdaftar', 'percaya', 'menyetujuinya', 'informasi', 'email', 'email', 'dana', 'terpotong'",negatif
+"'membantu', 'konsultasi', 'rumah', 'kondisi', 'covid'",positif
+"'parah', 'vaksin', 'lanjut usia', 'dosis', 'parah', 'nunggu', 'jam', 'antre', 'heranya', 'vaksin', 'lancar', 'habis', 'jelas', 'buruk', 'kasian', 'orgtua', 'vaksin', 'lebih baik', 'aplikasi', 'sebelah'",positif
+"'dokternya', 'luamayan', 'berpengalaman', 'fitur', 'fiturnya', 'membantu'",positif
+"'terimakasih', 'bagus', 'panik', 'keluhan', 'bantu'",positif
+"'instal', 'daftarin', 'vaksin', 'lanjut usia', 'tangalnya', 'bertuliskan', 'slot', 'tersedia', 'isi', 'data', 'upload', 'ktp', 'giliran', 'submit', 'penuh', 'tulisnya', 'auto', 'recheck', 'tersedia', 'slotnya', 'resubmit', 'penuh', 'jelas', 'perbaiki'",negatif
+"'membantu', 'pembelian', 'obat', 'kota'",positif
+"'membantu', 'memudahkan', 'pasien', 'keluarga', 'pelayanan', 'kesehatan'",positif
+"'konsultasi', 'memuaskan', 'direkomendasikan', 'rumah', 'mengurangi', 'mobilitas', 'semoga', 'dokter', 'dokter', 'sehat', 'membantu', 'melayani', 'keluhan', 'pasien', 'membutuhkan', 'direkomendasikan'",positif
+"'kasih', 'bintang', 'semoga', 'aplikasi', 'pelayanan', 'baik'",positif
+"'membantu', 'dokternya', 'bagus', 'cepat', 'responya'",positif
+"'puas', 'pelayanan', 'dilapangan', 'terkait', 'vaksin', 'terima', 'lancar', 'cepat', 'petugasnya', 'ramah', 'sabar', 'penuh', 'perhatian', 'terima kasih', 'salam', 'sehat', 'bantu'",positif
+"'tolong', 'kasih', 'chat', 'dokter', 'ny', 'ny', 'pembayaran', 'ny'",negatif
+"'konsultasi', 'dokter', 'menghemat', 'thanks'",positif
+"'terbaik', 'situasi', 'apapun', 'jam', 'konsultasi'",positif
+"'menyenangkan', 'langsung', 'konsultasi', 'dokter', 'rumah'",positif
+"'janji', 'sesuai', 'jadwal', 'tersedia', 'lab', 'prodia', 'mega', 'galaxy', 'sby', 'maret', 'jam', 'pagi', 'prodia', 'tutup', 'heranya', 'jadwal', 'tersedia', 'aplikasi', 'orang', 'kecele', 'chat', 'bantuan', 'lambat', 'respon', 'jam', 'solusi', 'sms', 'membatalkanatau', 'mereschedul', 'coba', 'aplikasi', 'aplikasi', 'pembatalan', 'berlaku', 'jam', 'jadwal', 'konsultasi', 'reshedule', 'jam', 'jadwal', 'konsultasi', 'ampun', 'ampun'",negatif
+"'semoga', 'membantu', 'pasien', 'konsultasi', 'rumah', 'terima', 'kasih'",positif
+"'pesan', 'obat', 'pelayanan', 'cepat', 'respon', 'langsung', 'dikirim', 'darurat'",positif
+"'suka', 'aplikasi', 'membantu', 'pelayananya', 'bagus', 'case', 'kirim', 'barang', 'kekuranganya', 'langsung', 'kirim', 'kesokan', 'harinya', 'sukses', 'ditingkatkan', 'pelayananya'",positif
+"'menolong', 'pertolongan', 'kucing', 'membantu', 'bagus'",positif
+"'dokter', 'ramah', 'baik', 'melayani', 'bijaksna', 'terima', 'kasih'",positif
+"'terima', 'kasih', 'vaksin', 'covid', 'efek', 'signifikan'",positif
+"'bagus', 'membantu', 'urusan', 'kesehatan', 'jam'",positif
+"'bagus', 'dipakai', 'aplikasinya', 'cari', 'obat', 'harga', 'terjangkau'",positif
+"'keren', 'cepat', 'respon', 'konsultasi', 'dokter', 'kandungan'",positif
+"'kasih', 'bintang', 'kasih', 'aplikasi', 'terbaik', 'pembelian', 'kebutuhan', 'medis', 'darurat', 'rumah', 'bagus', 'masukanya', 'semoga', 'apotek', 'aplikasi', 'jarak', 'ambil', 'obatnya', 'bagus'",positif
+"'puas', 'konsultasi', 'dokter', 'papua', 'susah', 'nebus', 'obat', 'nunjukin', 'chat', 'obatnya', 'untung', 'tanda', 'tangan'",negatif
+"'niat', 'instal', 'aplikasi', 'pgnya', 'mempermudah', 'beli', 'obat', 'kondisi', 'sakit', 'kos', 'beli', 'estimasi', 'nyampenya', 'aplikasi', 'cocok', 'kondisi', 'darurat', 'beli', 'obat', 'orang', 'sakit', 'parah', 'terlanjur', 'wasalam', 'obatnya', 'mengedit', 'ulasan', 'aplikasi', 'diperbaiki', 'sistemnya'",negatif
+"'selamat', 'siang', 'salam', 'telepon', 'mengatas', 'namakan', 'biaya', 'klaim', 'pengaktifan', 'biaya', 'bulanan', 'menyebut', 'nomor', 'rek', 'sistem', 'pemotongan', 'ribu', 'mohon', 'konfirmasi', 'takutnya', 'saldo', 'tepotong', 'bulanya', 'terima', 'kasih'",positif
+"'membantu', 'pandemi', 'terimakasih'",positif
+"'konsultasi', 'dokternya', 'nyaman', 'keluhan', 'foto', 'langsung', 'area', 'sakitnya', 'dokter', 'detail', 'semoga', 'resepnya', 'cocok', 'mengatasi', 'keluhan', 'terima kasih', 'dokter'",positif
+"'praktis', 'bagus', 'dokternya', 'keluhan', 'terima kasih'",positif
+"'terima kasih', 'aplikasi', 'terpercaya', 'chat', 'langsung', 'bagus'",positif
+"'coba', 'kaji', 'vaksin', 'mitra', 'ojol', 'sejatinya', 'mitra', 'pakai', 'aplikasi', 'ojol', 'mencari', 'rezeki', 'gojek', 'grab', 'indriver', 'maxim', 'aplikasi', 'wajib', 'vaksin', 'mitranya', 'repot', 'batalin', 'kerja', 'vaksin', 'biar', 'mitra', 'vaksin', 'aparatur', 'pemerintah'",negatif
+"'dokter', 'anak', 'bayi', 'berusia', 'anak', 'rawat', 'rumah', 'sakit', 'hasil', 'rongsen', 'mengidap', 'penyakit', 'radang', 'paru', 'tolong', 'dokter', 'anak', 'sembuh', 'total', 'penyakit', 'terimakasih', 'bantu'",positif
+"'respon', 'baik', 'dokternya', 'terima', 'kasih'",positif
+"'aplikasi', 'berguna', 'terima', 'kasih', 'mengadakan', 'kegiatan', 'vaksin', 'serentak', 'prambanan', 'sleman', 'terima', 'kasih', 'pemerintahan', 'diy', 'yogyakarta', 'sponsor', 'kegiatan', 'semoga', 'pembuatan', 'kegiatan', 'pahala', 'berlimpah', 'tuhan', 'maha', 'esa', 'terima', 'kasih', 'terbaik', 'regard', 'beny'",positif
+"'posisi', 'pengambilan', 'obat', 'rumah', 'menunggu'",negatif
+"'janji', 'buka', 'jam', 'dokternya', 'balas', 'balas', 'apsnya', 'dibatalkan', 'tulisanya', 'aplikasi', 'daring', 'mengecewakan', 'unduh', 'butuh', 'berguna', 'donasikan', 'menu', 'donasi', 'pilihan', 'pembayaran', 'saldo', 'menunjukan', 'pelayananya', 'sebanding', 'aplikasi', 'sebelah'",negatif
+"'klg', 'periksa', 'pacar', 'hasilnya', 'periksa', 'tanggal', 'maret', 'jam', 'drive', 'thru', 'kemayoran', 'tanggal', 'maret', 'jam', 'hslnya', 'butuh', 'hslnya', 'cepat', 'pelayanan', 'pemeriksan', 'covid', 'dihalo', 'menurun', 'periksa', 'gratis'",negatif
+"'pengalaman', 'bagus', 'konsultasi', 'dokter', 'pilihan'",positif
+"'mohon', 'maaf', 'kasih', 'bintang', 'jelek', 'pelayananya', 'pesan', 'vitamin', 'tangal', 'estimasi', 'tangal', 'proses', 'tolong', 'pelayanan', 'telepon', 'chat', 'cek', 'cek', 'cek', 'pembatalan', 'pesanan', 'beli', 'pasar', 'saldo', 'tarik', 'rekening', 'tolong', 'tingkatkan', 'pelayananya', 'tolong', 'kirim', 'pesanan'",negatif
+"'membantu', 'terima', 'kasih', 'dokter', 'ny', 'aplikasi', 'ny', 'bantu'",positif
+"'memudahkan', 'konsultasi', 'dokter', 'bertemu', 'langsung'",positif
+"'konsultasi', 'keluhan', 'mudah', 'sulit', 'antre', 'rumah', 'sakit'",positif
+"'dokter', 'gratis'",negatif
+"'tertolong', 'aplikasi', 'zaman', 'covid', 'takut', 'rumah', 'sakit', 'konsultasi', 'hewan', 'peliharan', 'konsultasi', 'gigi', 'pokoknya', 'tertolong', 'terima', 'kasih'",positif
+"'penjelasan', 'dokter', 'lengkap', 'ramah', 'terima kasih'",positif
+"'terbaik', 'diandalkan', 'suka'",positif
+"'malam', 'malam', 'sakit', 'binggung', 'ke mana', 'keluhan', 'obat', 'langsung', 'diantar', 'kendala', 'pengiriman', 'kadang', 'driver', 'kontak', 'langsung', 'teleponya'",negatif
+"'jelas', 'daring', 'pilihan', 'aman'",positif
+"'membantu', 'transaksi', 'biaya', 'permudah'",negatif
+"'percakapan', 'dokter', 'jelas', 'arahanya', 'bagus'",positif
+"'vaksin', 'tanggal', 'maret', 'daftar', 'vaksin', 'kode', 'kupon', 'dikirim', 'urusnya', 'terima', 'kasih'",positif
+"'membantu', 'konsultasi', 'langsung', 'dokter'",positif
+"'bagus', 'dokter', 'susah', 'mahal', 'bagus'",positif
+"'bayar', 'dokternya', 'sibuk', 'chat', 'ulang', 'digubris', 'nyapa', 'bilang', 'dokternya', 'sibuk', 'gopay', 'kepotong', 'pengembalian', 'dana', 'mohon', 'pertimbangkan', 'dokter', 'gubris', 'baik', 'dilaporkan', 'sibuk', 'sedang apa', 'coba', 'berani', 'daftar', 'risiko', 'nerima', 'permintan', 'konsultasi', 'pasien', 'manapun', 'diemin', 'membingungkan', 'pengembalian dana', 'fleksibel', 'jam', 'respon', 'sesi', 'berbayar', 'hak', 'pasien', 'makan', 'gaji', 'buta', 'chat', 'diam', 'diam', 'baik'",negatif
+"'tangal', 'maret', 'saldo', 'anjungan tunai mandiri', 'ambil', 'program', 'adakan', 'kemarin', 'telepon', 'mengatasnamakan', 'pelayanan', 'rugikan', 'berhenti', 'berhenti', 'langgan'",negatif
+"'transaksi', 'gagal', 'saldo', 'kepotong', 'diliat', 'riwayat', 'transaksinya'",negatif
+"'layanan', 'proses', 'cepat', 'catatan', 'pasien', 'status', 'gejala', 'covid', 'dokter', 'kasih', 'himbauan', 'mengasih', 'pil', 'tidur', 'sesuai', 'dosis', 'perlukan', 'orsng', 'sakit', 'butuh', 'istirahat'",positif
+"'beli', 'obat', 'layanan', 'dokter', 'bagus', 'ganguan', 'ganti', 'nomor', 'nomor', 'ganti', 'pakai', 'email', 'riwayat', 'transaksi', 'hilang', 'aplikasi'",negatif
+"'senang', 'aplikasi', 'cepat', 'respon', 'obat', 'langsung', 'diantar', 'resep', 'pelayanan', 'jam', 'dokter', 'baik', 'informatif', 'terima', 'kasih'",positif
+"'pembayaranya', 'diperluas', 'gopay', 'bca', 'mandiri', 'debit', 'maksudnya', 'ragu', 'cobain', 'apknya', 'dokter', 'langsung', 'pandemi', 'pembayaranya', 'di mana', 'indomaret', 'alfamart', 'dan sebagainya', 'kota', 'akses', 'mudah', 'desa', 'susah', 'intinya', 'ditingkatkan', 'mohon'",negatif
+"'membantu', 'lanjut usia', 'biaya', 'kesehatanya', 'terbatas'",positif
+"'konsultasi', 'dokter', 'line', 'memudahkan', 'pilihan', 'dokter', 'kisaran', 'biaya', 'disesuaikan', 'terima', 'kasih'",positif
+"'aplikasi', 'membantu', 'kalangan', 'luas', 'terbatas', 'milenial', 'konsultasi', 'tipis', 'tipis', 'saran', 'muculkan', 'saldo', 'profile', 'pemilik', 'akun', 'permudah', 'mengisi', 'saldo', 'berbagi', 'bank', 'aplikasi', 'bayar', 'bayar', 'lainya'",positif
+"'membantu', 'pandemi'",positif
+"'bermanfaat', 'orang', 'membutuhkan', 'bantuan', 'cepat'",positif
+"'cangih', 'langsung', 'konsultasi', 'dokter', 'ahlinya', 'rumah', 'sakit', 'respon', 'cepat', 'dokter', 'membantu', 'membutuhkan', 'pelayanan', 'kesehatan'",positif
+"'janji', 'rapid', 'tutup'",negatif
+"'aplikasi', 'ambil', 'antrian', 'daring', 'aplikasi', 'terintegras', 'hasil', 'cek', 'upayakan', 'laporan', 'laporan', 'laporan', 'laporan', 'sehat', 'sulit', 'expetasi', 'tujuan', 'utama', 'boh', 'fair', 'slogan', 'customer', 'klinik', 'bolak', 'hasil', 'test', 'sedang apa', 'pakai', 'daring'",negatif
+"'semenjak', 'terbantu', 'konsultasi', 'beli', 'obat', 'rumah', 'antre', 'rumah', 'sakit', 'apotek', 'bagus', 'diskon', 'sesi', 'konsultasi', 'dokter', 'makasi', 'memudahkan', 'hidup', 'semoga', 'promo', 'sukses', 'bagus'",positif
+"'mengalami', 'kekesalan', 'apsnya', 'mendaftar', 'vaksinasi', 'lanjut usia', 'berhubung', 'lanjut usia', 'janji', 'tangal', 'vaksinasi', 'dibatalkan'",negatif
+"'aplikasinya', 'jelek', 'aktivasi', 'lambat', 'terusan', 'diklik'",negatif
+"'puas', 'bagus', 'ulasanya', 'cocok', 'ramah', 'cocok', 'obatnya'",positif
+"'terima', 'kasih', 'konsultasi', 'membantu'",positif
+"'pelayanan', 'memudahkan', 'obat', 'keliling', 'apotek', 'lengkap', 'solusi', 'terbaik', 'kelengkapan', 'obatnya', 'terima', 'kasih'",positif
+"'membantu', 'pesan', 'obat', 'sampainya', 'darurat', 'butuh', 'sedih', 'histori', 'perjalanan', 'paket', 'obatnya', 'kaya', 'menunggu', 'sampenya', 'memperbarui', 'terima kasih', 'tim', 'cepat', 'respon', 'kejelasan', 'bantu'",negatif
+"'bermanfaat', 'anak', 'sakit', 'dimalam', 'rumah sakit', 'chat', 'dokter', 'aplikasi', 'smuanya', 'beres', 'pandemi', 'terima kasih', 'bantuanya', 'dokter', 'terima kasih', 'aplikasi'",positif
+"'bagus', 'cepat', 'konsultasi', 'terima kasih'",positif
+"'dokter', 'kamar', 'terpisahkan', 'dipakai', 'isolasi', 'mandiri', 'angota', 'keluarga', 'kena', 'covid', 'sembuh', 'kamar', 'disterilkan', 'dipakai', 'masuk', 'kamar'",positif
+"'diperbarui', 'aplikasi', 'dibuka'",negatif
+"'aplikasi', 'bermanfaat', 'pembelian', 'obat'",positif
+"'dokter', 'bagus', 'informasi', 'jelas', 'menolong'",positif
+"'senang', 'berobat', 'konsultasi', 'doktet', 'shanti', 'tandayu', 'internist', 'ramah', 'jelas', 'bertele', 'obat', 'arahan', 'bagus', 'isk', 'membaik', 'terima', 'kasih', 'bermanfaat', 'bagus'",positif
+"'driver', 'gojek', 'kemarin', 'pesan', 'vaksin', 'covid', 'bawa', 'orang', 'lanjut usia', 'vaksin', 'membawa', 'orang', 'lanjut usia'",positif
+"'aplikasi', 'membantu', 'di tengah', 'pandemi', 'covid', 'rumah', 'tingal', 'aplikasi', 'terimakasih', 'tingkatkan', 'kualitasnya'",positif
+"'janji', 'dokter', 'vaksin', 'manula', 'drive', 'thru', 'mudah', 'terima kasih'",positif
+"'berpartisipasi', 'penangulangan', 'covid'",positif
+"'membantu', 'memuaskan', 'informasi', 'pelayanan'",positif
+"'kasih', 'bintang', 'kendala', 'pembayaran', 'gopay', 'penyelesaian', 'tim', 'cepat', 'membantu', 'terima kasih', 'tim', 'bagus'",positif
+"'beruntung', 'aplikasi', 'antre', 'antre', 'rumah sakit', 'klinik', 'obat', 'obat', 'rekomendasikan', 'manjur'",positif
+"'vaksin', 'sertifikat', 'vaksinya', 'admin'",positif
+"'aplikasinya', 'bagus', 'pelayanan', 'konsultasinya', 'cepat', 'respon', 'apotiknya', 'cepat'",positif
+"'pemesanan', 'obat', 'fitur', 'chatnya', 'tolong', 'dialihkan', 'fitur', 'sms', 'butuh', 'pulsa', 'dialihkan', 'fitur', 'gojeknya', 'fitur', 'chat', 'aplikasi', 'konfirmasi', 'driver', 'pakai', 'pulsa'",negatif
+"'dokter', 'ramah', 'diskusi', 'bagus', 'lancar', 'salut', 'sangka', 'bagus', 'jam', 'obat', 'ditangan'",positif
+"'asli', 'parah', 'aplikasi', 'niat', 'mempercepat', 'urusan', 'rapid', 'antigen', 'terkendala', 'aplikasi', 'sia', 'sia', 'berharap', 'berharap', 'berangkat', 'kerja', 'parahnya', 'dana', 'dikembalikan'",negatif
+"'aplikasi', 'konsultasi', 'dokter', 'bermanfaat', 'kondisi', 'menjelaskan', 'keluhanya', 'salah', 'diagnosis'",positif
+"'cepat', 'hemat', 'efisien', 'janji', 'vaksinasi', 'covid', 'lanjut usia', 'aplikasi', 'membantu', 'tingal', 'janji', 'vaksinasi', 'sukses', 'amanah', 'bagus'",positif
+"'terima', 'kasih', 'pandemi', 'aman', 'kesini', 'konsultasi', 'dokter', 'senior', 'langgan', 'terima', 'kasih'",positif
+"'bagus', 'kadang', 'obat', 'tersedia', 'apotek', 'terdekat', 'pesan', 'daring', 'semoga', 'ke depan', 'baik'",negatif
+"'sumpah', 'chat', 'dokter', 'pakai', 'bayar', 'enga', 'aplikasi', 'membantu', 'orang', 'susah', 'konsultasi', 'bayar', 'kecuali', 'beli', 'obat', 'periksa', 'bagus', 'chat', 'bayar', 'membantu'",negatif
+"'bermanfaat', 'aplikasi'",positif
+"'aplikasinya', 'jalan', 'respon', 'menyebalkan'",negatif
+"'konsultasi', 'memuaskan', 'pergi', 'apotek', 'ucapkan', 'terima', 'kasi', 'aplikasi', 'semoga', 'manfat'",positif
+"'bagus', 'aplikasi', 'respon', 'dokternya', 'baik'",positif
+"'terimakasih', 'membantu', 'darurat', 'libur', 'terimakasih', 'dokter', 'stand', 'beli', 'libur', 'chat', 'asik', 'ramah', 'informasi', 'akurat'",positif
+"'informasi', 'mudah', 'terjawab'",positif
+"'aplikasi', 'berbayar', 'aplikasi', 'bagus', 'cobain', 'diliat', 'download', 'bagus', 'download', 'berbayar', 'langsung', 'kecewa', 'tolong', 'kembangkan', 'biar', 'aplikasi', 'berbayar', 'gratis', 'aplikasi', 'sebelah', 'kasih', 'bintang', 'fitur', 'dokter', 'gratis', 'kasih', 'bintang'",negatif
+"'membantu', 'apan', 'jelas', 'sulit', 'bayar', 'sulit', 'aplikasi', 'berguna', 'sumpah', 'hack', 'aplikasi', 'sumpah', 'janji', 'rapid', 'persulit'",negatif
+"'aplikasi', 'berguna', 'efisien', 'memesan', 'obat', 'dimanapun', 'cari', 'apotek', 'menyediakan', 'obatnya', 'suka', 'cinta', 'aplikasi', 'kembangkan'",positif
+"'membantu', 'pelayanan', 'ramah', 'bagus', 'dokter'",positif
+"'puas', 'dokter', 'dokternya', 'baik', 'ramah', 'ramah', 'diaknosa', 'obatnya', 'bagus', 'cocok', 'semoga', 'dokternya', 'sehat', 'amin'",positif
+"'pengirim', 'ramah', 'sesuai', 'pemesanya', 'salut', 'drivernya'",positif
+"'membantu', 'dimasa', 'pandemi', 'konsultasi', 'obat', 'rumah', 'serasa', 'dokter', 'pribadi'",positif
+"'asalamualaikum', 'maaf', 'habis', 'unduh', 'aplikasi', 'playstore', 'buka', 'aplikasinya', 'masuk', 'aplikasi', 'klik', 'chat', 'dokter', 'lihat', 'di situ', 'pilihan', 'dokter', 'chat', 'konsultasi', 'kesehatan', 'konsultasi', 'kesehatan', 'dokter', 'aplikasi', 'membayar', 'chat', 'konsultasi', 'dokter', 'chat'",positif
+"'solusi', 'praktis', 'biaya', 'murah', 'dokter', 'responsif'",positif
+"'daring', 'sesi', 'petunjuk', 'konsultasi', 'beli', 'teks', 'telepon', 'buang', 'buang', 'uang', 'bayar', 'konsultasi'",negatif
+"'uang', 'diterima', 'status', 'tes', 'antigenya', 'dikonfirmasi', 'dikonfirmasi', 'maunya', 'nerima', 'uang', 'layan', 'customer', 'responya', 'lancar', 'lancar', 'kecewa', 'berat'",negatif
+"'aplikasi', 'membantu', 'keluarga', 'membeli', 'obat', 'obatan', 'vitamin', 'tes', 'pacar', 'pandemi', 'bagus', 'pokoknya'",positif
+"'aplikasi', 'bagus', 'scheduling', 'dokter', 'antre', 'rumah sakit', 'Cuma', 'pelayanan', 'mengecewakan', 'hasil', 'tes', 'infokan', 'sms', 'selesai', 'hasil', 'tes', 'hardcopy', 'softcopy', 'ambil', 'tes', 'media', 'chat', 'pelayanan', 'responya', 'lambat', 'respon', 'menit', 'memutuskan', 'jalur', 'komunikasi', 'ulang', 'respon', 'lambat', 'pelayanan', 'konfirmasi', 'konfirmasi', 'terkait', 'sla', 'sisi', 'responsif'",negatif
+"'dokter', 'responsif', 'nyaman', 'konsultasi', 'terima kasih'",positif
+"'membantu', 'sulit', 'rumah'",positif
+"'keren', 'aplikasi', 'membantu', 'darurat', 'terima', 'kasih', 'feny', 'ramah', 'konsultasi', 'resepnya', 'cocok'",positif
+"'iwan', 'setiawan', 'ag', 'salah', 'driver', 'gojek', 'bandar', 'lampung', 'konfirmasi', 'orderan', 'apotek', 'jesaya', 'farma', 'orderan', 'pengambilan', 'obat', 'harap', 'menunggu', 'barang', 'persiapkan', 'obat', 'pemesanan', 'tersedia', 'aplikasi', 'gojek', 'jalankan', 'pemesanan', 'gojek', 'barang', 'driver', 'tingal', 'bawa', 'barang', 'menjalankan', 'orderan', 'berdasarkan', 'konfirmasi', 'pelangan', 'apotek'",negatif
+"'niat', 'make', 'aplikasi', 'cepat', 'rumah', 'apoteknya', 'apotek', 'bumn', 'swasta', 'diskitar', 'fitur', 'ngebuat', 'pembeliatau', 'driver', 'milih', 'apotek', 'terdekat', 'pakai', 'manual', 'nahan', 'sakit', 'posisi', 'kota'",negatif
+"'chat', 'berbayar', 'lebih baik', 'pakai', 'bagus', 'google', 'gratis'",negatif
+"'aplikasi', 'membantu', 'metode', 'pembayaranya', 'tambahin', 'pembesaran', 'harga', 'baik', 'tingkatkan', 'sukses', 'terima', 'kasih'",negatif
+"'bagus', 'puas', 'petugas', 'ramah', 'memahami', 'dibidangnya', 'kepemilikan', 'kustomer', 'layani', 'ramah', 'kustomer', 'merasakan', 'puas', 'upgrade', 'bidang', 'kedokteran', 'memperbarui', 'terbaru', 'medicine', 'informasi', 'virus', 'corona', 'virus', 'lainya', 'vaksin', 'umur', 'servis', 'drivethru', 'dimudahkan', 'pengajuan', 'sertifikat', 'hasilnya', 'harga', 'terjangkau'",positif
+"'terima', 'kasih', 'membntu', 'era', 'pandemi', 'sulit', 'rumah sakit', 'konsultasi', 'diam', 'rumah', 'tingal', 'chat', 'dokternya', 'ramah', 'responsif'",positif
+"'membantu', 'pademi'",positif
+"'membantu', 'konsultasi', 'kesehatan'",positif
+"'selamat', 'malam', 'mohon', 'maaf', 'berbayar', 'konsultasi', 'salah', 'dokter', 'aplikasi', 'terima kasih'",positif
+"'mencari', 'obat', 'mudah', 'pelayananya', 'cepat'",positif
+"'dokternya', 'sabar', 'jelas', 'akurat', 'baik', 'terima kasih', 'dokter', 'bosen', 'ya', 'dokter', 'kesehatan', 'bantu'",positif
+"'aplikasi', 'membantu', 'anak', 'anak', 'keluarga', 'sehat', 'berangkat', 'klinik', 'langsung', 'terima', 'kasih', 'bagus'",positif
+"'uang', 'pengembalian dana', 'juta', 'pembatalan', 'pacar', 'dikirim', 'tangal', 'februari', 'februari', 'statusnya', 'proses'",negatif
+"'membantu', 'musim', 'pandemi'",negatif
+"'bagus', 'dokternya', 'ramah', 'puas', 'berkeluh', 'kesah', 'biaya', 'murah', 'di rumah', 'memudahkan', 'diksi', 'resep', 'dikasi', 'penjelasan', 'detail', 'bayar', 'konsulnya', 'diskon', 'terima kasih'",positif
+"'aplikasi', 'membantu', 'pandemi', 'dokter', 'dokternya', 'bagus', 'obat', 'obatan', 'efektif', 'diskon', 'konsultasi'",positif
+"'membantu', 'pandemi'",positif
+"'bagus', 'membantu', 'keluarga', 'setahun', 'bagus', 'hasiat', 'obat', 'obatan', 'kasih', 'bagus', 'bagus'",positif
+"'aplikasi', 'membantu', 'harga', 'konsultasi', 'bersahabat', 'dokter', 'ramah'",positif
+"'dokternya', 'ramah', 'responya', 'cepat', 'direkomendasikan', 'bagus', 'repot', 'repot', 'kerumah', 'sakit', 'obatnya', 'langsung', 'dikirim', 'bagus'",positif
+"'bagus', 'membantu', 'respon', 'dokter', 'cepat', 'rumah sakit', 'konsultasi', 'obat', 'dikirim', 'rumah', 'terima kasih'",positif
+"'membantu', 'pandemi', 'rumah', 'beli', 'obat', 'anak', 'sakit', 'suruh', 'bagustrimakasih', 'aplikasi', 'membantu', 'bagus'",positif
+"'membantu', 'konsultasi', 'kesehatan'",positif
+"'pakai', 'aplikasi', 'binggung', 'konsultasi', 'baik', 'ramah', 'jelas', 'terimakasih'",positif
+"'senang', 'aplikasi', 'mempermudah', 'sehat', 'konsultasi', 'daring', 'kondisi', 'pandemi'",positif
+"'baik', 'kesehatan', 'konsultasi', 'dokter', 'dokternya', 'ramah', 'ramah', 'baik'",positif
+"'anjuran', 'kasih', 'obat', 'saran', 'berguna'",positif
+"'terimakasih', 'mas', 'amirul', 'cepat', 'respon', 'surat', 'bagus', 'pekerjaan', 'man', 'bagus', 'kesulitan', 'aktifkan', 'lokasi', 'login', 'tolong', 'dibantu', 'senoari'",negatif
+"'bagus', 'secepat', 'kilat', 'penjelasan', 'detail'",positif
+"'ramah', 'ramah', 'bagus', 'responsif', 'penjelasan', 'butuhkan'",positif
+"'membantu', 'kondisi', 'covid'",positif
+"'maaf', 'rapid', 'antigen', 'kemayoran', 'metode', 'pembayaran', 'pakai', 'anjungan tunai mandiri', 'bri', 'terima kasih'",positif
+"'dokter', 'ramah', 'penjelasan', 'akurat'",positif
+"'terimakasih', 'dokter', 'semoga', 'bermanfaat'",positif
+"'aplikasi', 'bagus', 'murah', 'terima kasih'",positif
+"'membantu', 'bermanfaat', 'pandemi', 'obat', 'dianjurkan', 'baik', 'cepat', 'menyembuhkan', 'sesuai', 'penyakit', 'sasaran', 'terima', 'kasih'",positif
+"'bagus', 'konsultasi', 'jam', 'obat', 'langsung', 'jam', 'aplikasi', 'membantu', 'semoga', 'obat', 'cocok'",positif
+"'dokternya', 'menjelaskan', 'jelas'",positif
+"'pembayaran', 'ovo', 'dana'",positif
+"'bagus', 'kasih', 'informasi', 'menarik', 'baik'",positif
+"'mantap', 'murah', 'konsultasi', 'dokter', 'bayar', 'gopay'",positif
+"'membantu', 'pengalaman'",positif
+"'baik', 'penanganan', 'suka', 'panik', 'diagnose', 'baik', 'langsung', 'ahlinya', 'teman-teman'",positif
+"'pemesanan', 'pengiriman', 'obat', 'cepat', 'membantu', 'keadan', 'mendesak', 'ayah', 'obat', 'jantung', 'secepatnya', 'jam', 'terima', 'kasih'",positif
+"'aplikasi', 'bagus', 'membantu'",positif
+"'aplikasi', 'bagus', 'dokternya', 'responya', 'cepat', 'bagus'",positif
+"'pelayanan', 'baik', 'hasil', 'cepat', 'diterima', 'customer'",positif
+"'chat', 'dokternya', 'membantu'",positif
+"'praktis', 'membantu', 'terima kasih'",positif
+"'w', 'kirim', 'mata', 'm', 'yun', 'ukm', 'j', 'mi'",positif
+"'puas', 'cepat', 'tangap', 'bantu'",positif
+"'berbayar', 'gratis', 'obat', 'batuk', 'pilek', 'terbaik', 'dijual', 'warung', 'paham', 'perbedan', 'obat', 'lumayan', 'aplikasi', 'lihat', 'dokter', 'cantik', 'pengalamanya', 'lulusan', 'bintang', 'aplikasi'",negatif
+"'terima kasih', 'dokter', 'uji', 'asiah', 'm', 'sc', 'dokternya', 'baik', 'ramah', 'jelas', 'penjelasanya', 'senang', 'konsultasi', 'bu', 'dokter'",positif
+"'sedang apa', 'mengantri', 'klinik', 'rumah', 'sakit', 'dokter', 'lebih baik', 'tingal', 'klik', 'konsultasi', 'keluhan', 'menunggu', 'obat', 'beres', 'keren', 'terima kasih', 'kasih'",positif
+"'bintang', 'pilihan', 'pembayaran', 'terbatas', 'evaluasi', 'pilihan', 'pembayaran', 'linkaja', 'transfer', 'rekening', 'virtual'",negatif
+"'paket', 'pertangung', 'terimakasih', 'dana', 'diganti', 'proses'",negatif
+"'bintang', 'coba', 'masuk', 'langsung', 'sinyal', 'telepon genggam', 'mendukung'",negatif
+"'bagus', 'konsultasi', 'langsung', 'dokter', 'spesialis', 'semoga', 'sukses'",positif
+"'konsultasi', 'memuaskan', 'lumayan', 'ramah'",positif
+"'penolong', 'aplikasi', 'pengguna', 'mudah'",positif
+"'membantu', 'kondisi', 'rumah', 'sakit', 'pasien', 'aman', 'sehat', 't', 'jaga', 'terima', 'kasih', 'pertahankan', 'respon', 'cepat', 'dokter'",positif
+"'konsultasi', 'pakai', 'bayar', 'kaya', 'lebih baik', 'langsung', 'rumah sakit', 'langsung', 'kasih', 'obatnya', 'bukanya', 'membantu'",negatif
+"'membantu', 'darurat', 'membutuhkan', 'obat', 'malam', 'haripun', 'chat', 'dokter', 'spesialis', 'obatny', 'cepat', 'dtangnya', 'terima kasih', 'gosend'",positif
+"'kode', 'voucher', 'bilang', 'invalid'",positif
+"'proses', 'mudah', 'cepat', 'pemesanan', 'obat'",positif
+"'terima kasih', 'aplikasi', 'mudah', 'konsultasi', 'dokter', 'semoga', 'sakit', 'sembuh', 'amin'",positif
+"'membantu', 'sakit', 'mag', 'kosan', 'berjalan', 'apotek', 'pesan', 'beli', 'gojek', 'puji', 'tuhan', 'langsung', 'minum', 'obat', 'sembuh', 'untung', 'bagus'",positif
+"'bagus', 'bermanfaat', 'teratas'",positif
+"'praktis', 'dokter', 'pelayanan', 'ramah', 'bagus'",positif
+"'praktis', 'puas', 'terima', 'kasih'",positif
+"'membantu', 'pandemi', 'hamil', 'puas', 'respon', 'baik', 'ramah', 'dokter', 'dokter', 'senang', 'terbaik', 'suka'",positif
+"'terima kasih', 'apotek', 'pesan', 'obat', 'rutin', 'suami', 'semoga', 'smakin', 'bagus', 'depanya', 'terima kasih', 'bagus'",positif
+"'membantu', 'konsultasi', 'dokter', 'antre', 'pembelian', 'obat', 'mudah', 'langsung', 'diantar', 'rumah'",positif
+"'dokternya', 'tangap', 'cepat', 'respon'",positif
+"'call', 'servis', 'dokter', 'menelepon', 'menawarkan', 'prodak', 'unlimited', 'perbulan', 'sistem', 'auto', 'debit', 'fasilitas', 'bebas', 'chat', 'dokter', 'fitur', 'aplikasi', 'berubah', 'tarif', 'gratis', 'ulasan', 'lengkap'",negatif
+"'dokternya', 'balasnya', 'cepat', 'ramah'",positif
+"'barusan', 'telepon', 'mengatas', 'namakan', 'email', 'pribadi', 'data', 'nmor', 'rekening', 'anjungan tunai mandiri', 'bner', 'mohon', 'infonya', 'bner', 'bong', 'data', 'anjungan tunai mandiri', 'membawa', 'kepihak', 'ulasan', 'lengkap'",negatif
+"'binggung', 'biaya', 'penanganan', 'biaya', 'ongkos kirim', 'gataunya', 'biaya', 'penanganan', 'ongkirnya', 'tertawa', 'jatohnya', 'murah', 'terimakasih', 'suka'",positif
+"'respon', 'pelayanan', 'lambat', 'keluhan'",negatif
+"'pesan', 'obatnya', 'susah', 'mencari', 'driver', 'pesan', 'offline', 'langsung', 'apotek', 'kasih', 'lihat', 'resepnya'",negatif
+"'bagus', 'konsultasi', 'dokternya', 'bagus'",positif
+"'maaf', 'download', 'aplikasi', 'gejala', 'sakit', 'alami', 'kenakan', 'biaya', 'bantu'",negatif
+"'bagus', 'terbantu', 'konsultasi', 'penyakit', 'obatnya', 'terima'",positif
+"'bagus', 'aplikasinya', 'membantu'",positif
+"'terima', 'kasih', 'serba', 'cepat'",positif
+"'pagi', 'pagi', 'konsultasi', 'bu', 'dokter', 'cantik', 'diagnosis', 'baik', 'resep', 'terjangkau', 'bahasa', 'ramah', 'terima', 'kasih', 'bantu'",positif
+"'maaf', 'mingu', 'hidung', 'mencium', 'bau', 'coba', 'jelaskan'",positif
+"'rekomendasi', 'unduh', 'kesulitan', 'mencari', 'membeli', 'obat', 'dibutuhkan'",positif
+"'membantu', 'terima', 'kasih'",positif
+"'mag', 'kambuh', 'berat', 'dokter', 'untung', 'selesai', 'konsultasi', 'daring', 'resep', 'langsung', 'diorder', 'gojek', 'terima kasih'",positif
+"'bagus', 'cepat', 'pengiriman', 'semoga', 'obatnya', 'manjur', 'cepat', 'berkhasiat', 'secepat', 'pengiriman', 'sukses'",positif
+"'pelayanan', 'pengobatan', 'penyembuhan'",positif
+"'balita', 'usia', 'beberap', 'telinga', 'anak', 'sebelah', 'kanan', 'cairan', 'bau', 'anak', 'terkadang', 'memukul', 'telingan', 'telapak', 'tangan', 'kasih', 'obat', 'terima', 'kasih'",positif
+"'terima', 'kasih', 'aplikasi', 'malam', 'sakit', 'pinggang', 'salah', 'rekan', 'dokter', 'bernama', 'feny', 'membantu', 'sakit'",positif
+"'buatin', 'dokter', 'chat', 'gratis'",positif
+"'pandemi', 'membantu', 'klik', 'terhubung', 'konsultasi', 'obat', 'langsung', 'diantar'",positif
+"'suda', 'pembayaran', 'chat', 'pembayaran', 'berhasil', 'chat', 'dokter', 'sibuk'",negatif
+"'kesekian', 'konsultasi', 'dokter', 'dokter', 'konsultasi', 'nency', 'binggung', 'mingu', 'dokter', 'dokter', 'spesialis', 'libur', 'praktik', 'terima', 'kasih', 'dokter'",positif
+"'membantu', 'obat', 'langsung', 'diantar', 'gopay', 'saldo', 'great', 'senang'",positif
+"'instal', 'aplikasi', 'wlopun', 'tertawa', 'bagus', 'lengkap', 'mudah', 'instal', 'coba', 'konsultasi', 'gizi', 'keren', 'dokternya', 'asik', 'terima', 'kasih', 'aditya', 'mulyantari'",positif
+"'pesan', 'obat', 'status', 'terkirim', 'terima', 'obatnya', 'telepon', 'pelayanan', 'ktnya', 'diurus', 'penyelesaian', 'ktnya', 'aplikasi', 'bagus', 'pelayanan', 'buruk'",negatif
+"'hai', 'cari', 'swab', 'antigen', 'rsatau', 'klinik', 'terdekat', 'reading', 'crash', 'mohon', 'dibantu'",negatif
+"'membantu', 'terima kasih'",positif
+"'aplikasi', 'bagus', 'dokter', 'didalamnya', 'bertangung', 'bangat', 'semoga', 'aplikasi', 'berkembang', 'baik', 'dimasa'",positif
+"'bagus', 'dokter', 'direkomendasikan'",positif
+"'baik', 'diperbaiki', 'verifikasi', 'kode', 'otp', 'pembayaran', 'gopay', 'berulang', 'berulang', 'sukses', 'terima', 'kasih'",negatif
+"'terbantu', 'pandemi', 'konsultasi', 'dokter', 'obat', 'dikirim', 'langsung', 'apotek', 'bayarnya', 'cashles'",positif
+"'mudah', 'repot', 'repot', 'antre', 'antre', 'rumah sakit', 'klinik', 'klik', 'konsultasi', 'kasih', 'resep', 'obat', 'thanks', 'semoga', 'dokter', 'sukses', 'amin', 'bagus'",positif
+"'membantu', 'cepat', 'praktis', 'memuaskan'",positif
+"'log', 'out', 'verifikasi', 'kode', 'dikirim', 'sms', 'error'",negatif
+"'era', 'pandemi', 'dokter', 'konsultasi', 'daring', 'membantu', 'terima', 'kasih'",positif
+"'perlayan', 'baik', 'sopan', 'lokasi', 'mudah', 'area', 'luas', 'memudahkan', 'vaksin', 'menjalankan', 'proses', 'm', 'bravo'",positif
+"'membantu', 'aman', 'selagi', 'pandemi', 'malas', 'antre', 'penjelasanya', 'memuaskan'",positif
+"'terbantu', 'aplikasi', 'dokternya', 'baik', 'baik'",positif
+"'konsultasi', 'dokter', 'baik', 'cepat', 'responsif', 'pesan', 'obat', 'status', 'pembayaranya', 'dibatalkan', 'jelek'",negatif
+"'bagus', 'suka', 'aplikasi'",positif
+"'pembayaran', 'dokternya', 'chat', 'terima kasih', 'pengembalian dana'",negatif
+"'bagus', 'pelayanan', 'baik', 'jelas', 'cepat'",positif
+"'membantu', 'pandemi', 'dokternya', 'baik', 'sabar', 'keluhan', 'pasien'",positif
+"'konsultasi', 'dokter', 'mudah', 'menenangkan', 'panik', 'pertolongan', 'sakit'",positif
+"'bagus', 'pelayananya'",positif
+"'selamat', 'siang', 'dokter', 'barusan', 'telepon', 'mengatasnamakan', 'pelayanan', 'dokter', 'menjelaskan', 'klaim', 'dana', 'jt', 'data', 'lengkap', 'email', 'nomor', 'rekening', 'bank', 'aneh', 'email', 'nama', 'nomor', 'rek', 'un', 'ulasan', 'lengkap'",negatif
+"'kasih', 'bonus', 'kaki', 'beli', 'obat', 'pakai'",positif
+"'bagus', 'cepat', 'respon', 'dokternya', 'membantu', 'terima kasih'",positif
+"'terimakasih', 'aplikasi', 'bantu'",positif
+"'cepat', 'tangap', 'aplikasi', 'sulit'",positif
+"'terbaik', 'konsultasi', 'terbaik'",positif
+"'malam', 'malam', 'sakit', 'kontak', 'langsung', 'konsuli', 'obat', 'kirim', 'membantu', 'infokan', 'teman', 'teman'",positif
+"'aplikasi', 'orang', 'kelas', 'tibang', 'obat', 'bayar', 'sunguh', 'miris', 'negeri', 'ktika', 'orang', 'pintar', 'anugerah', 'membantu', 'ihklas', 'seakan', 'uwang', 'kuasa', 'tuhan'",negatif
+"'membantu', 'memfasilitasi', 'pendaftara', 'vaksinasi', 'covid', 'lanjut usia', 'apotek', 'butuh', 'obat', 'malas', 'rumah'",positif
+"'mantap', 'kemarin', 'putus', 'koneksi', 'chat', 'dokter', 'ulasan', 'bintang', 'lansung', 'ditelpon', 'dikembalikan', 'uangnya', 'mantap'",positif
+"'membantu', 'resep', 'dokter', 'obat', 'dikirim', 'daring', 'terima', 'kasih'",positif
+"'bagus', 'pandemi', 'membantu', 'terima', 'kasih', 'sukses', 'bantu'",positif
+"'membantu', 'respon', 'cepat', 'terima kasih'",positif
+"'terbantu', 'adany', 'aplikasi', 'maju'",positif
+"'alamat', 'maaf', 'mencantumkan', 'alamat', 'manual'",positif
+"'aplikasi', 'ketiga', 'apotek', 'toko online', 'sedia', 'barang', 'kondisi', 'edisi', 'th', 'beli', 'langsung', 'apotek', 'gojek', 'kasih', 'obat', 'edisi'",negatif
+"'respon', 'dokter', 'cepat'",positif
+"'bagus', 'antre', 'rumah', 'sakit'",positif
+"'profesional', 'cepat', 'tangap'",positif
+"'membantu', 'mudah'",positif
+"'aplikasi', 'membantu', 'vet', 'dokter', 'suci', 'dokter', 'hewan', 'ramah', 'konsultasi', 'dokter', 'suci'",positif
+"'membantu', 'terima kasih'",positif
+"'thanks', 'membantu', 'mendapt', 'resep', 'pergi', 'dokter'",positif
+"'pengalaman', 'aplikasi', 'bagus', 'semoga', 'bermanfaat', 'membantu', 'menyembuhkan'",positif
+"'mudah', 'konsultasi', 'dokter'",positif
+"'nomor', 'telepon genggam', 'muncul', 'otentikasi', 'nomor', 'telepon genggam', 'tolong', 'tim', 'it', 'back', 'end', 'diperbaiki', 'terima kasih'",negatif
+"'menolong', 'aplikasinya', 'darurat', 'anak', 'anak', 'ditingal', 'rumah', 'terima', 'kasih'",positif
+"'aplikasi', 'pintar', 'membantu', 'dimasa', 'pandemi', 'antre', 'apotek', 'apotek', 'antre', 'dikasir', 'apotek', 'tingal', 'pakai', 'gopay', 'terima', 'kasih'",positif
+"'sistem', 'pembayaran', 'pakai', 'gopay', 'kasih', 'pembayaran', 'lakukan', 'indomaret', 'alfamaret'",negatif
+"'terima kasih', 'mempermudah', 'berobat', 'klinik', 'dimasa', 'pandemi'",positif
+"'membantu', 'pengiriman', 'ongkosnya', 'mahal', 'kurir', 'reguler', 'tarif', 'ribu', 'kena', 'ribu'",negatif
+"'uang', 'habis', 'ribu', 'konsultasi', 'resep', 'cuek', 'sam', 'dokternya', 'posisi', 'sakit'",negatif
+"'mempermudah', 'konsultasi', 'janji', 'dokter', 'lingkungan', 'tingal'",negatif
+"'beli', 'obat', 'sertakan', 'nota', 'pembelianya'",negatif
+"'metode', 'pembayaran', 'sulit', 'kenpa', 'go', 'pay', 'isi', 'saldo', 'pakai', 'debit', 'teratas', 'rekening', 'bank', 'dam', 'sejisnya', 'hapy', 'hewan', 'bagus'",negatif
+"'dokternya', 'baik', 'ramah'",positif
+"'terbaik', 'menurutku', 'andalan', 'diriku', 'jelek', 'belanja', 'apotek', 'zaman', 'pandemi', 'aman', 'beli', 'daring'",positif
+"'dokter', 'bagus', 'respon', 'cepat'",positif
+"'terima kasih', 'terkhusus', 'wid', 'patria', 'sabar', 'ramah', 'mendengarkan', 'konsultasi', 'pasien'",positif
+"'tidak bisa', 'disambung', 'gopay'",negatif
+"'instal', 'sambung', 'gopay', 'tulisanya', 'nomor', 'terdaftar', 'nomor', 'gopaynya', 'terverifikasi', 'edit', 'bintangnya', 'terima kasih'",negatif
+"'konsultasi', 'chat', 'doctornya', 'kenakan', 'tarif', 'tarifnya'",negatif
+"'bagus', 'pelayanan', 'cepat', 'dokter', 'ramah', 'harga', 'obat', 'jangkau'",positif
+"'membantu', 'musim', 'pandemi'",positif
+"'bagus', 'bagus', 'konsultasi', 'kehamilan', 'istri', 'semoga', 'berkah', 'sehat', 'amin'",positif
+"'aplikasi', 'membantu'",positif
+"'membantu', 'semoga', 'resep', 'obatnya', 'berkhasiat', 'kesembuhan', 'anak', 'terimakasih'",positif
+"'lambat', 'respon', 'adminya', 'uang', 'cepat', 'keluhan', 'kendala', 'lambat', 'parah', 'jelek'",negatif
+"'harga', 'bagus', 'sayang', 'error', 'lambat', 'respon', 'ditelpon', 'pelayanan', 'susah', 'masuk', 'hasil', 'rapid', 'antigen', 'jam', 'jam'",negatif
+"'bagus', 'pelayananya', 'ramah'",positif
+"'respon', 'costumer', 'servies', 'lambat', 'lambat', 'solusi', 'bermasalah', 'aplikasi', 'sinkron'",negatif
+"'konsultasi', 'bayar', 'pakai', 'gopay', 'gagal', 'konsultasi', 'menu', 'konsultasi'",negatif
+"'aplikasi', 'keren', 'membantu'",positif
+"'auntik', 'vaksin', 'mandiri', 'kusus', 'lanjut usia', 'umur', 'aplikasi'",positif
+"'suka', 'pakai', 'aplikasi', 'konsultasi', 'murah', 'rumah', 'sakit'",positif
+"'konsultasi', 'beli', 'obat', 'mudah', 'aplikasi', 'report', 'konsultasi', 'beli', 'obat', 'menunggu', 'rumah'",positif
+"'aplikasi', 'membantu', 'suka'",positif
+"'pelayanan', 'bagus', 'puas'",positif
+"'bagus', 'mudahin', 'cek', 'tokonya', 'daerah'",negatif
+"'kondisi', 'sulit', 'rumah', 'membantu', 'terima kasih', 'barakalah'",positif
+"'ok', 'memudahkan', 'membantu'",positif
+"'bagus', 'membantu', 'terima', 'kasih', 'mudah', 'mudahan', 'berkembang'",positif
+"'layanan', 'dokter', 'cepat', 'respon', 'komunikasi', 'terima', 'baik', 'terima', 'kasih'",positif
+"'membantu', 'pandemi'",positif
+"'pesan', 'obat', 'cepat', 'membantu', 'disetiap', 'kondisi'",positif
+"'dokter', 'terlambat', 'postif', 'hamil', 'mohon', 'petunjuk', 'dokter'",positif
+"'aplikasinya', 'mudah', 'membantu', 'semoga', 'responsif', 'melayani', 'konsultasi', 'terima kasih'",positif
+"'apotek', 'toko', 'beli', 'barang', 'harga', 'beli', 'ajar'",negatif
+"'dokternya', 'ramah', 'komunikatif'",positif
+"'terima', 'kasih', 'dokter', 'resep'",positif
+"'bagus', 'pokoknya', 'musim', 'anak', 'sakit', 'mudah', 'nanganinya', 'terima kasih', 'bantu'",positif
+"'membantu', 'telepon', 'dimasa', 'pandemi', 'kedepanya', 'semoga', 'pilih', 'apotek'",positif
+"'aplikasi', 'lambat', 'telepon genggam', 'masuk', 'tampilan', 'aplikasi', 'redmi', 'note', 'mohon', 'bantuanya'",negatif
+"'bayar', 'iklan', 'gratis'",negatif
+"'masuk', 'kalender', 'kehamilan', 'menu'",negatif
+"'proses', 'apotek'",negatif
+"'membantu', 'tolong', 'mahal', 'mahal', 'konsultasi', 'pasien', 'butuh', 'bantuan', 'konsultasi'",negatif
+"'asli', 'bagus', 'jam', 'malam', 'mencari', 'obat', 'pilek', 'anak', 'langsung', 'pakai', 'gojek'",positif
+"'suka', 'aplikasi', 'membantu'",positif
+"'memudahkan', 'konsultasi', 'dokter', 'membeli', 'obat', 'memudahkan', 'aplikasi', 'bagus'",positif
+"'gatal', 'bintik', 'nanah', 'selangkangan', 'paha', 'petunjuk'",positif
+"'pengguna', 'bagus', 'terima kasih', 'penilaian', 'berubah', 'bagus', 'pelayanan'",negatif
+"'bagus', 'dapetin', 'obatnya', 'repot', 'apotek', 'terima kasih', 'bagus', 'konsultasi', 'dokter', 'lancar', 'cepat'",positif
+"'mudah', 'informasinya', 'lengkap'",positif
+"'teratas', 'membantu', 'terima kasih'",positif
+"'akun', 'tersambung', 'gopay', 'saldo', 'gopay', 'isinya', 'mohon', 'diperbaiki'",negatif
+"'bagus', 'referensi', 'kesehatan'",positif
+"'terima kasih', 'dokternya', 'ramah'",positif
+"'respon', 'dokter', 'baik', 'chat', 'cepat', 'dibalas', 'konsultasi', 'di mana', 'mudah'",positif
+"'cepat', 'penanganan', 'bagus'",positif
+"'he', 'pembayaran', 'debit', 'bni', 'suportnya', 'terpaksa', 'pakai', 'mandiri'",negatif
+"'aplikasi', 'cepat', 'respon', 'pelayanan', 'cepat', 'sukses', 'bagus'",positif
+"'aplikasi', 'rongsokan', 'cari', 'obat', 'driver', 'gojek', 'diarahkan', 'apotek', 'tutup'",negatif
+"'konsultasi', 'tht', 'langsung', 'responsif', 'kasih', 'resep', 'bagus', 'semoga', 'lekas', 'sembuh'",positif
+"'dokternya', 'respon', 'baik', 'cepat', 'detail', 'konsultasi', 'bagus'",positif
+"'dokternya', 'baik', 'nyaman', 'konsultasi', 'semoga', 'perbarui'",positif
+"'bagus', 'mantap', 'susah', 'berobat', 'aplikasi', 'bagus'",positif
+"'aplikasi', 'bagus', 'membantu', 'beli', 'obat', 'putar', 'putar', 'cari', 'apotek', 'terima', 'kasih'",positif
+"'membantu', 'sehat', 'penanganan', 'cepat', 'mudah', 'diakses', 'terima kasih'",positif
+"'membantu', 'mudah', 'mudah', 'konsultasi', 'sembuh'",positif
+"'jelas', 'aplikasi', 'pelan', 'responsif', 'jelas'",negatif
+"'darurat', 'bagus'",positif
+"'terlambat', 'brpa', 'menit', 'langsung', 'dibatalkan', 'jadwal', 'konsultasi', 'uang', 'pengembalian dana', 'chat', 'botnya', 'pelayanan', 'payah', 'ngrespon'",negatif
+"'terimakasih', 'saran', 'resep', 'terbagus', 'tatap', 'muka', 'dokter'",positif
+"'membantu', 'konsultasi', 'obat', 'langsung', 'diterima', 'terima kasih', 'dokter'",positif
+"'bagus', 'dokternya', 'baik', 'pakai', 'kaget', 'langsung', 'beli', 'obat', 'pakai', 'gojek', 'keren', 'membantu'",positif
+"'bagus', 'layanan', 'csnya', 'respon', 'cepat', 'tolong', 'aplikasi', 'pelan', 'dokter', 'asuransi', 'diterukan'",negatif
+"'bermanfaat', 'kesehatan'",positif
+"'dimudahkan', 'membeli', 'obat'",positif
+"'membantu', 'konsultasi', 'dokter', 'pelayanan', 'ramah', 'jelas', 'membantu', 'solusi'",positif
+"'mudah', 'cepat', 'informasinya'",positif
+"'bagus', 'konsultasi', 'dokter', 'cepat', 'respon', 'ramah', 'terima', 'kasih'",positif
+"'mantap', 'membantu', 'seumpama', 'rumah', 'sakit', 'puskesmas'",positif
+"'puas', 'pelayanan', 'terima kasih', 'membantu'",positif
+"'aplikasi', 'konsultasi', 'anga', 'mintarsa', 'bagus', 'bagus', 'bagus', 'terima kasih', 'dokter'",positif
+"'aplikasi', 'membantu', 'konsultasi', 'kesehatan'",positif
+"'membantu', 'solusi', 'baik', 'dokter', 'terpercaya', 'pengalaman', 'bagus'",positif
+'membantu',positif
+"'penjelasan', 'dokter', 'baik', 'bagus'",positif
+"'aplikasi', 'terbaik', 'suka'",positif
+"'membantu', 'cocok', 'resep', 'dokter', 'terima', 'kasih'",positif
+"'aplikasi', 'membantu'",positif
+"'penjelasan', 'jelas', 'detail', 'mudah', 'mengeti'",positif
+"'bermanfaat', 'orang'",positif
+"'bismilah', 'semoga', 'bermanfaat'",positif
+"'cepat', 'keluhan', 'pasien'",positif
+"'dokternya', 'komunikatif', 'ramah', 'sabar', 'saranya', 'jelas', 'secara keseluruhan', 'terima kasih', 'dokter'",positif
+"'membantu', 'era', 'pandemi', 'semoga', 'ditingkatkan', 'layananya'",positif
+"'dokter', 'ny', 'baik', 'baik', 'cepat', 'obat', 'kasi', 'obat', 'terbaik', 'langgan'",positif
+"'parah', 'konsultasi', 'bayar', 'indonesia', 'merdeka', 'mapia', 'kaya'",negatif
+"'terima kasih', 'membantu'",positif
+"'pemesanan', 'respon', 'salah', 'coba'",negatif
+"'bagus', 'semoga', 'baik'",positif
+"'mengakses', 'akun', 'nomor', 'telepon', 'hilang', 'mohon', 'bantuanya'",negatif
+"'terbantu', 'kerumah', 'sakit', 'bagus', 'sembuh', 'sakit'",positif
+"'sulit', 'apotek', 'pakai', 'puas', 'rumah'",positif
+"'baiknya', 'arahkan', 'pembelian', 'obat', 'apotek', 'terdekat', 'rumah', 'pasien', 'terima', 'kasih'",positif
+"'aplikasi', 'membantu', 'pandemi', 'manfatnya', 'saskit', 'gejala', 'ringan'",positif
+"'tolong', 'filter', 'berdasarkan', 'wilayah', 'praktik', 'cek'",negatif
+"'pakai', 'lumayan', 'tenang', 'konsultasi', 'dokternya'",positif
+"'keren', 'pakai', 'asuransi'",positif
+"'membantu', 'pandemi', 'rumah', 'konsultasi'",positif
+"'dokter', 'rutin', 'periksa', 'tangal', 'tentukan', 'sesuai', 'kehamilan', 'perbulan', 'mohon', 'kebijakan', 'dockter'",positif
+"'konsultasi', 'suka'",positif
+"'pengemasan', 'cepat', 'pengiriman', 'cepat', 'kepepet', 'malam', 'malam', 'butuh', 'obat', 'kalah', 'cepat', 'terima kasih'",positif
+"'bermanfaat', 'efisien', 'tenaga', 'biaya', 'thanks'",positif
+"'dokternya', 'ramah', 'solusi', 'sesuai', 'kondisi', 'konsultasi'",positif
+"'membantu', 'pandemi', 'chat', 'dokter', 'cepat', 'responsif', 'profesional'",positif
+"'bagus', 'membantu'",positif
+"'membantu', 'cepat', 'kondisi', 'mendesak', 'pasien', 'datangke', 'rumah sakit'",positif
+"'membantu', 'kondisi', 'mendadak', 'mendesak', 'terima kasih', 'semoga', 'sukses'",positif
+"'bagus', 'konsultasi', 'berasa', 'diskusi', 'langsung', 'dokter'",positif
+"'aplikasi', 'membantu'",positif
+"'takut', 'rumahsakit', 'dokternya', 'bagus', 'bagus', 'makasih'",positif
+"'terima kasih', 'konsultasi', 'dokter', 'dokternya', 'ramah', 'cepat', 'balas', 'chat', 'senang'",positif
+"'membantu', 'mengenali', 'penyakit', 'kucing', 'konsultasi', 'dokter', 'hewan'",positif
+"'membantu', 'sakit'",positif
+"'aplikasi', 'kehidupan', 'butuh', 'obat', 'tingal', 'pemesanan'",positif
+"'dokter', 'jelas', 'terbantu', 'merawat', 'suami', 'terima kasih'",positif
+"'bagus', 'membantu', 'susah', 'cari', 'obat', 'aplikasiny', 'cepat', 'lengkap', 'bagus'",positif
+"'membantu', 'dimasa', 'pandemi', 'mengurangi', 'kontak', 'langsung', 'dokter'",positif
+"'dokter', 'melayani', 'gratis', 'respon', 'cepat', 'kaih', 'bintang', 'mencoba', 'konsultasi'",positif
+"'bagus', 'terima', 'kasih', 'layanan', 'cepat', 'membantu'",positif
+"'bagus', 'penjelasan', 'dokternya', 'detail', 'pakai', 'gambar', 'tubuh', 'cepat', 'mudah'",positif
+"'aplikasi', 'membantu', 'sayang', 'bayar', 'pakai', 'ovo'",negatif
+"'bagus', 'bermanfaat', 'respon', 'cepat', 'baik', 'tangap', 'membantu'",positif
+"'binggung', 'ke mana', 'aplikasi', 'membantu', 'terima kasih', 'yah'",positif
+"'menolong', 'semoga', 'membantu', 'masyarakat', 'kemudahan'",positif
+"'membantu', 'covid', 'rumah'",positif
+"'membantu', 'terima kasih'",positif
+"'bagus', 'aplikasi', 'membantu', 'pelayananya', 'cepat', 'bagus'",positif
+"'tolong', 'fitur', 'gratis', 'chat', 'asuransi', 'spesialis', 'dokter', 'dokter'",negatif
+"'tulisan', 'terhubung', 'dokter', 'saldo', 'terpotong', 'chat', 'diskusi', 'dokternya', 'aplikasi', 'jelek'",negatif
+"'konsultasi', 'cepat'",positif
+"'terima', 'kasih', 'membantu'",positif
+'responya',negatif
+"'dokter', 'ramah', 'lansung', 'point', 'penjelasan', 'penyakitnya', 'pertahankan'",positif
+"'sunguh', 'bermanfaat', 'pandemi', 'memiliki', 'anak', 'sakit', 'malam'",positif
+"'terima kasih', 'aplikasi', 'membantu', 'konsultasi', 'kesehatan'",positif
+"'detail', 'membantu', 'dokternya', 'kasih', 'resep', 'obat'",positif
+"'malam', 'dokternya', 'sabar', 'melayani', 'konsultasi', 'keren', 'charles'",positif
+"'ambilnya', 'obat', 'rumah', 'kasihan', 'gojeknya'",negatif
+"'membantu', 'biaya', 'konsultasi', 'plus', 'obat', 'terjangkau', 'terima kasih'",positif
+"'ulasan', 'dokter', 'baik', 'obat', 'direkomendasikan', 'bagus', 'terima kasih', 'dokter'",positif
+"'membantu', 'aplikasi', 'berhubungan', 'dokter', 'pandemi'",positif
+"'kasih', 'bintang', 'pemesanan', 'bayar', 'status', 'dibatalkan', 'uang', 'lari', 'ke mana', 'uang', 'kasih', 'bintang', 'transaksi', 'dibatalkan'",negatif
+"'membantu', 'keadan', 'pandemi', 'rumah'",positif
+"'senang', 'konsultasi', 'dokter', 'bagus', 'tenang'",positif
+"'aplikasi', 'bagus'",positif
+"'membantu', 'informasi', 'kesehatan', 'butuhkan'",positif
+"'puas', 'membantu', 'terimakasi', 'aplikasi', 'halodic', 'dokter', 'bertugas'",positif
+"'susah', 'hubungkan', 'gopay', 'pin', 'dibilang', 'salah'",negatif
+"'terima', 'kasih', 'aplikasi', 'membantu', 'pandemi'",positif
+"'pesan', 'bagus', 'lancar', 'cepat', 'sampainya'",positif
+"'tolong', 'sertifikat', 'vaksin', 'kemarin', 'vaksin', 'makan', 'mengeluarkan', 'tolong', 'usut', 'jelek', 'tolong', 'respon', 'kendala', 'terima kasih'",positif
+"'terimakasih', 'membantu'",positif
+"'cepat', 'penanganan', 'terima kasih', 'ksih', 'terbantu', 'kondisi', 'mendesak'",positif
+"'membantu', 'keadan', 'pandemi', 'covid', 'bagus'",positif
+"'membantu', 'konsultas', 'semoga', 'cocok', 'obatnya', 'amin'",positif
+"'bermanfaat', 'konsultasi', 'kesehatan', 'cepat', 'bagus'",positif
+"'tolong', 'percepat', 'prosesnya', 'tes', 'pacar', 'kemaren', 'nunggu', 'ac', 'butuh', 'cepat'",negatif
+"'dokter', 'tolong', 'area', 'perluas', 'daerah', 'jawa', 'timur', 'blitar'",negatif
+"'penjelasan', 'baik'",positif
+"'membantu', 'situasi', 'pandemi', 'repot', 'repot', 'rumah'",positif
+"'suka', 'memudahkan', 'sibuk', 'memeriksakan', 'dokter'",positif
+"'dokternya', 'ramah', 'membantu', 'terima kasih'",positif
+"'bagus', 'membantu'",positif
+"'bagus', 'kondisi', 'pandemi', 'berobat', 'rumah'",positif
+"'membantu', 'mencari', 'solusi', 'kesehatan', 'terima kasih'",positif
+"'aplikasi', 'membantu', 'sulit', 'antre', 'beli', 'obat'",positif
+"'cepat', 'responsif', 'solusi'",positif
+"'membantu', 'upload', 'resep', 'tingal', 'menunggu', 'obat', 'antre', 'apotek'",positif
+"'bagus', 'opsi', 'saran', 'driver', 'gojeknya'",negatif
+"'rekomen', 'membantu', 'terima kasih', 'bagus'",positif
+"'bagus', 'rekomendasi', 'konsultasi', 'pergi', 'rumah', 'sakit'",positif
+'diandalkan',positif
+"'aplikasinya', 'pelan', 'macet', 'tolong', 'servernya', 'perbaiki', 'terima kasih'",negatif
+"'tolong', 'alasan', 'pesanan', 'dibatalkan', 'batal'",negatif
+"'mudah', 'cepat'",positif
+"'membantu', 'aplikasi', 'terima kasih', 'dokter'",positif
+"'bagus', 'berbicara', 'ahli', 'diagnosis'",positif
+"'terbantu', 'aplikasi', 'kondisi', 'pandemi', 'covid'",positif
+"'membantu', 'beli', 'obat', 'darurat', 'terima kasih', 'gojek'",positif
+"'membantu', 'darurat', 'konsultasi', 'obat', 'rumah', 'biaya', 'terjangkau'",positif
+"'bagus', 'membantu', 'isoman'",positif
+"'bagus', 'membantu'",positif
+"'dokternya', 'ramah'",positif
+"'puas', 'pelayanan', 'baik', 'keluarga'",positif
+"'kadang', 'barangnya', 'kosong'",negatif
+"'solusi', 'pandemi'",positif
+"'respon', 'dokter', 'cepat', 'penyampaian', 'padat', 'jelas', 'puas', 'pelayanan'",positif
+"'dokter', 'responsif', 'bagus', 'dokter', 'galak'",negatif
+'membantu',positif
+"'sederhana', 'sulit'",positif
+"'terbantukan', 'rumah sakit', 'pandemi', 'suka'",positif
+"'baik', 'care'",positif
+"'instal', 'mingu'",negatif
+"'konsultasi', 'dokter', 'ramah', 'pengiriman', 'obat', 'cepat', 'terima kasih'",positif
+"'surat', 'keterangan', 'sakit', 'dokter'",positif
+"'dokernya', 'ramah', 'ramah', 'chat', 'jam', 'pagi', 'dilayani', 'baik'",positif
+"'cepat', 'respon', 'dokternya', 'kondisi', 'arahan', 'resep', 'obat'",positif
+'membantu',positif
+"'dokternya', 'bagus', 'wilayah', 'pengantaran', 'obat', 'luas'",negatif
+"'praktis', 'membantu', 'dikala', 'rumah', 'kantor'",positif
+'membantu',positif
+"'puas', 'mudah', 'konsultasi', 'dokter'",positif
+"'responya', 'cepat'",positif
+"'senang', 'konsultasi', 'anti', 'khawatir', 'kontak'",positif
+'membantu',positif
+"'pengiriman', 'cepat'",positif
+"'membantu', 'cepat', 'kebutuhan', 'obat', 'obatan', 'konsultasi', 'kesehatan'",positif
+"'selamat', 'pagi', 'sertifikat', 'dibuka', 'vaksin'",negatif
+"'membantu', 'terima kasih'",positif
+"'membantu', 'pandemi'",positif
+"'terima', 'kasih', 'membantu', 'pandemi', 'bantu'",positif
+'membantu',positif
+"'membantu', 'bagus'",positif
+"'terima kasih', 'keluhan', 'pelayanan', 'cepat', 'menangapi', 'bantu'",positif
+'membantu',positif
+"'chat', 'balas', 'dokternya', 'saldo', 'jelek'",negatif
+'membantu',positif
+"'pakai', 'aplikasi', 'lancar', 'informatif'",positif
+"'keren', 'praktis', 'terpercaya'",positif
+'membantu',positif
+"'aplikasi', 'membantu', 'kondisi', 'istirahat'",positif
+"'dokternya', 'menjelaskan', 'baik', 'semoga', 'anak', 'lekas', 'sembuh'",positif
+"'aplikasi', 'layanan', 'membantu', 'semoga', 'sukses'",positif
+"'aplikasi', 'membantu', 'respon', 'cepat', 'pengiriman', 'cepat'",positif
+"'aplikasi', 'membantu', 'pasien', 'berpergian'",positif
+"'dokternya', 'baik', 'penjelasanya', 'jelas', 'membantu'",positif
+"'terima kasih', 'mudah', 'mudahan', 'cepat', 'sembuh', 'penyakit'",positif
+"'pelayanan', 'baik', 'terimakasih', 'dokter'",positif
+"'cepat', 'bagus'",positif
+'membantu',positif
+"'aplikasi', 'manfatnya', 'bagus', 'mudah'",positif
+"'senang', 'curahan hati', 'dada', 'bingung', 'terimakasih', 'terimakasih'",positif
+"'terima kasih', 'membantu', 'pandemi'",positif
+"'pelayananya', 'memuaskan', 'petugasnya', 'ramah', 'terima', 'kasih'",positif
+"'membantu', 'tenang', 'informasi', 'solusi'",positif
+"'dokter', 'hewan', 'ramah'",positif
+"'membantu', 'pendemi', 'rumah sakit', 'takut', 'takut'",positif
+"'cepat', 'respon', 'dokter', 'ramah', 'penjelasan', 'detail'",positif
+"'aplikasi', 'bagus', 'wilayah', 'lombok', 'barat'",negatif
+"'membantu', 'pandemi'",positif
+"'chat', 'dokter', 'gratis', 'bayar', 'bagus'",negatif
+"'membantu', 'dokternya', 'jelas', 'sabar'",positif
+"'aplikasi', 'membantu', 'palagi', 'kondisi', 'pandemi', 'rumah sakit', 'rujukan', 'copid'",positif
+"'informasi', 'advise', 'membantu', 'terima', 'kasih', 'dokter'",positif
+"'membantu', 'rumah', 'menemui', 'dokter'",positif
+"'bayar', 'gopay', 'docternya', 'respon', 'kemana', 'uang', 'gopay', 'bayar', 'ganti', 'dokter'",negatif
+'membantu',positif
+"'pembayaran', 'gagal', 'uang', 'kepotong', 'dokter', 'beres'",negatif
+"'bagus', 'membantu', 'pandemi'",positif
+"'bagus', 'membantu', 'terima kasih', 'semoga', 'sukses'",positif
+"'membantu', 'membeli', 'obat', 'langsung'",positif
+"'bagus', 'responsif', 'aplikasinya', 'lambat', 'lambat'",positif
+"'membantu', 'mendesak'",positif
+"'memudahkan', 'terima kasih', 'layananya'",positif
+'membantu',positif
+"'bagus', 'aplikasi', 'cepat', 'tangap', 'terima', 'kasih'",positif
+"'pelayanan', 'respon', 'dokter', 'apotek', 'baik', 'cepat'",positif
+"'membantu', 'pandemi', 'saran', 'responsif'",positif
+'dokternya',positif
+"'puas', 'konsultasi', 'aplikasi', 'layananya', 'cepat'",positif
+"'ketemu', 'pengembangan', 'vidio', 'call', 'keren'",positif
+"'barang', 'bayar', 'respon', 'jelek'",negatif
+"'terima kasih', 'aplikasi', 'terbantu'",positif
+"'bagus', 'pengiriman', 'pesanan', 'cepat', 'diskon'",positif
+"'pelayanan', 'baik', 'cepat', 'kirim', 'cepat', 'terima', 'kasih'",positif
+"'dokternya', 'baik', 'sulit', 'rumah'",positif
+"'dokternya', 'cepat', 'tangap', 'ramah', 'memuaskan'",positif
+"'baik', 'sabar'",positif
+'memudahkan',positif
+"'membantu', 'kondisi', 'sibuk', 'ditambah', 'pandemi'",positif
+"'penyelamat', 'dikala', 'obat', 'dicari', 'apotek', 'terdekat', 'kosong', 'bagus'",positif
+"'terima', 'kasih', 'semoga', 'maju', 'berkembang'",positif
+"'unduh', 'resep', 'digital', 'dokumen', 'keteranganya', 'terunduh', 'masuk', 'dokumen', 'jelek'",negatif
+"'aplikasi', 'membantu', 'memudahkan', 'masyarakat'",positif
+"'membantu', 'meringankan', 'beban', 'rumah'",positif
+"'konsultasi', 'semoga', 'baik'",positif
+"'bagus', 'dicoba'",positif
+"'membantu', 'mencari', 'informasi', 'kesehatan', 'terima kasih'",positif
+"'membantu', 'senang', 'terima kasih'",positif
+"'cepat', 'tangapi', 'puas', 'konsultasi', 'terima', 'kasih'",positif
+'bermanfaat',positif
+"'nunggu', 'dokter', 'chat', 'bayar', 'registrasi'",negatif
+"'membantu', 'pembelian', 'obat', 'konsultasi', 'dokter'",positif
+"'bagus', 'cepat', 'obatnya'",positif
+"'bagus', 'membantu'",positif
+"'prabayar', 'mengunakn', 'ovo', 'gimna', 'komen', 'dokter', 'hu', 'payah'",negatif
+"'sulit', 'aplikasi', 'nyambungin', 'gopay', 'susah'",negatif
+"'bermanfaat', 'bagus', 'aplikasinya'",positif
+"'aplikasi', 'inovasi', 'anak', 'bangsa', 'hebat', 'membantu', 'masyarakat', 'indonesia', 'mempermudah', 'akses', 'layanan', 'kesehatan', 'fitur', 'fiturnya', 'membantu', 'di tengah', 'pandemi', 'aplikasi', 'membantu', 'berobat', 'mengantri', 'ulasan', 'lengkap'",positif
+"'semoga', 'membantu'",positif
+"'bagus', 'aplikasi', 'bagus'",positif
+"'bagus', 'aplikasinya'",positif
+"'keren', 'aplikasi', 'keadan', 'darurat'",positif
+"'lumayan', 'membantu'",positif
+"'puas', 'konsultasi', 'dokter', 'dokter'",positif
+'memuaskan',positif
+'bermanfaat',positif
+"'aplikasi', 'membantu', 'terima', 'kasih', 'bagus'",positif
+'membantu',positif
+"'bicara', 'bicara', 'menyediakan', 'kalender', 'menstruasi'",negatif
+'membantu',positif
+"'terima', 'kasih', 'cepat', 'respon', 'dokter', 'spog', 'resepnya', 'cocok', 'bantu'",positif
+"'bagus', 'bagus'",positif
+"'penjelasan', 'mengerti'",positif
+'membantu',positif
+"'lugas', 'jelas'",positif
+"'senang', 'konsultasi', 'mudah'",positif
+"'daftar', 'gagal', 'sinyal', 'lancar'",negatif
+"'semoga', 'anak', 'cocok', 'obat', 'dokter', 'anak', 'resepkan'",positif
+"'membantu', 'mudah', 'bagus', 'pokonya'",positif
+"'pelayanan', 'cepat'",positif
+'membantu',positif
+"'aplikasi', 'membantu', 'terima', 'kasih'",positif
+"'memudahkan', 'pandemi'",positif
+"'pelan', 'dibuka', 'lambat'",negatif
+"'praktis', 'antre', 'dokter', 'cepat', 'respon'",positif
+'membantu',positif
+"'dokternya', 'ramah', 'cepat', 'respon', 'terima kasih'",positif
+'membantu',positif
+"'beli', 'obat', 'jam', 'mudah', 'sulit', 'terima kasih', 'bagus'",positif
+"'pakai', 'konsultasi', 'hasilnya', 'bagus'",positif
+"'pelayanan', 'prima'",positif
+"'membantu', 'kondisi', 'penyakit'",positif
+"'membantu', 'situasi', 'pandemi'",positif
+'bantu',positif
+'bagus',positif
+'membantu',positif
+"'dokter', 'cepat', 'tangap', 'mendengarkan', 'keluhan'",positif
+"'membantu', 'sukses'",positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+"'respon', 'dokter', 'ramah', 'cepat', 'semoga', 'sukses', 'senang'",positif
+'membantu',positif
+"'aplikasi', 'dibutuhkan', 'rumah sakit'",positif
+'membantu',positif
+"'memuaskan', 'cepat', 'obat', 'apapun', 'tersedia'",positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+"'membantu', 'sakit'",positif
+'membantu',positif
+"'metode', 'perbayar'",negatif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+'membantu',positif
+"'membantu', 'berobat', 'pandemi'",positif
+'membantu',positif
+"'terima', 'kasih', 'dokternya', 'baik', 'ramah'",positif
+"'aplikasi', 'membantu', 'pandemi', 'bagus'",positif
+"'layanan', 'konsultasi', 'kesehatan', 'cepat', 'sederhana'",positif
+"'membantu', 'bantu'",positif
+"'membantu', 'bantu'",positif
+'membantu',positif
+"'membantu', 'pandemi'",positif
+"'cepat', 'praktis'",positif
+"'membantu', 'pandemi'",positif
+"'seru', 'diskusi', 'bareng', 'dokternya', 'teman', 'curhat'",positif
+"'dokter', 'baik', 'ramah', 'puas', 'solusi'",positif
+'membantu',positif
+'membantu',positif
+"'membantu', 'pandemi', 'dokternya', 'bagus'",positif
+"'bagus', 'membantu', 'darurat'",positif
+"'puas', 'dokter', 'kasih', 'arahan', 'terima kasih'",positif
+"'puas', 'pelayananya', 'semoga', 'berkah', 'sehat'",positif
+"'obat', 'dokternya', 'manjur', 'terima kasih', 'bantu'",positif
+"'dokternya', 'ramah', 'perhatian', 'terima kasih'",positif
+"'membantu', 'pandemi'",positif
+"'membantu', 'dokternya', 'ramah'",positif
+"'terbantu', 'pandemi', 'masi', 'takut', 'rumah sakit'",positif
+"'ramah', 'respon', 'cepat', 'terima kasih'",positif
+"'singkat', 'padat', 'jelas', 'chat', 'dokter', 'spesialis'",positif
+"'membantu', 'situasi'",positif
+"'nyaman', 'dokternya', 'suka'",positif
+"'respon', 'dokter', 'cepat', 'detail', 'pengiriman', 'obat', 'cepat'",positif
+"'respon', 'dokternya', 'baik', 'baik', 'aplikasi', 'membantu', 'pasien'",positif
+"'membantu', 'pandemi', 'demam'",positif
+"'membantu', 'aplikasi'",positif
+'membantu',positif
+"'membantu', 'terima', 'kasih'",positif
+"'terima kasih', 'kasih', 'bantuanya', 'dokter'",positif
+'membantu',positif
+"'membantu', 'dokter'",positif
+"'pelayananya', 'bagus', 'obatnya', 'cepat', 'nyampenya'",positif
+'membantu',positif
+'membantu',positif
+"'bagus', 'pakai', 'gratis', 'bayar'",positif
+"'dokter', 'jelas', 'penjelasanya', 'resep'",positif
+"'membantu', 'kondisi', 'menentu'",positif
+"'terbaik', 'bagus', 'membantu', 'pandemi', 'suka'",positif
+"'membantu', 'rumah', 'terima kasih'",positif
+"'suka', 'dokter', 'aplikasi'",positif
+"'membantu', 'dikala', 'pendemi'",positif
+'membantu',positif
+"'dokternya', 'ramah', 'respon', 'cepat', 'koperatif'",positif
+"'dokternya', 'ramah', 'ramah', 'menjelaskan', 'detail'",positif
+"'membantu', 'kebutuhan', 'obat', 'thanks'",positif
+"'bagus', 'menolong', 'terima', 'kasih'",positif
+"'daftar', 'vaksin', 'tanggal', 'maret', 'menceknya'",negatif
+"'membantu', 'pandemi', 'terima kasih', 'kasih'",positif
+"'semudah', 'diklik', 'praktis', 'bantu'",positif
+"'pelayananya', 'ramah', 'paham', 'bidangnya'",positif
+"'bagus', 'aplikasi', 'dokter', 'pribadi', 'terima kasih'",positif
+"'memudahkan', 'konsultasi', 'rumah'",positif
+"'membantu', 'pelayanan', 'dokter', 'memuaskan'",positif
