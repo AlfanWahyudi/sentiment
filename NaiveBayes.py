@@ -38,7 +38,7 @@ def langkah_tiga(langkah_pertama, langkah_dua):
     return results
 
 def langkah_empat(langkah_tiga):
-    return min(langkah_tiga, key=langkah_tiga.get)
+    return max(langkah_tiga, key=langkah_tiga.get)
     
 
 data = {'T':[[0, 1, 1, 1], 
