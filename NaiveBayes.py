@@ -18,7 +18,6 @@ def langkah_pertama(data, manyData):
     return results
 
 def langkah_dua(data, uji):
-    # probabilitas = []
     results = {}
 
     for labels, values in data.items():
@@ -40,7 +39,7 @@ def langkah_tiga(langkah_pertama, langkah_dua):
 def langkah_empat(langkah_tiga):
     return min(langkah_tiga, key=langkah_tiga.get)
     
-    
+
 data = {'T':[[0, 1, 1, 1], 
              [0, 1, 0, 1], 
              [0, 0, 1, 1], 
