@@ -56,13 +56,13 @@ manyData = many_data(data)
 pertama = langkah_pertama(data, manyData)
 kedua = langkah_dua(data, uji)
 ketiga = langkah_tiga(pertama, kedua)
-keEmpat = langkah_empat(ketiga)
+keempat = langkah_empat(ketiga)
 
 # print(manyData)
 print("Hasil langkah pertama: " + str(pertama))
 print("Hasil langkah kedua: " + str(kedua))
 print("Hasil langkah ketiga: " + str(dict(ketiga)))
-print("Hasil langkah ke empat: " + str(keEmpat))
+print("Hasil langkah keempat: " + keempat)
 
 
 
