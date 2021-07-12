@@ -12,6 +12,7 @@ def many_data(data):
 
 def langkah_pertama(data, manyData):
     results = {}
+    
     for labels, value in data.items():
         results[labels] = len(value) / manyData
 
