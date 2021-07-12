@@ -1,4 +1,5 @@
 import numpy as np
+from collections import Counter
 
 data = {'T':[[0, 1, 1, 1], 
              [0, 1, 0, 1], 
@@ -10,8 +11,6 @@ data = {'T':[[0, 1, 1, 1],
 
 uji = [1,0,1,1]
 
-# print(uji[0])
-#langkah pertama
 def many_data(data):
     manyData = 0
     
@@ -22,34 +21,49 @@ def many_data(data):
     return manyData
 
 def langkah_pertama(data, manyData):
-    probabilitas = []
+    results = {}
+    for labels, value in data.items():
+        results[labels] = len(value) / manyData
 
-    for value in data.values():
-        probabilitas.append(len(value) / manyData)
-
-    return probabilitas
+    return results
 
 def langkah_dua(data, uji):
-    probabilitas = []
+    # probabilitas = []
     results = {}
 
-    for label, values in data.items():
-        an_array = np.array(values)
-        counts = np.count_nonzero(an_array == uji, axis=0)
+    for labels, values in data.items():
+        convertNP = np.array(values)
+        counts = np.count_nonzero(convertNP == uji, axis=0)
         probabilitas = [count / len(values) for count in counts]
-        results[label] = np.prod(probabilitas)
+        results[labels] = np.prod(probabilitas)
 
     return results
 
 def langkah_tiga(langkah_pertama, langkah_dua):
-    pass
+    temp1 = Counter(langkah_pertama)
+    temp2 = Counter(langkah_dua)
+
+    results = Counter({key : temp1[key] * temp2[key] for key in temp1})
+
+    return results
+
+def langkah_empat(langkah_tiga):
+    return min(langkah_tiga, key=langkah_tiga.get)
     
+
+
 manyData = many_data(data)
-print(manyData)
+pertama = langkah_pertama(data, manyData)
+kedua = langkah_dua(data, uji)
+ketiga = langkah_tiga(pertama, kedua)
+keEmpat = langkah_empat(ketiga)
 
-print(langkah_pertama(data, manyData))
+# print(manyData)
+print("Hasil langkah pertama: " + str(pertama))
+print("Hasil langkah kedua: " + str(kedua))
+print("Hasil langkah ketiga: " + str(dict(ketiga)))
+print("Hasil langkah ke empat: " + str(keEmpat))
 
-print(langkah_dua(data, uji))
 
 
 
