@@ -1,16 +1,6 @@
 import numpy as np
 from collections import Counter
 
-data = {'T':[[0, 1, 1, 1], 
-             [0, 1, 0, 1], 
-             [0, 0, 1, 1], 
-             [1, 1, 1, 1]],
-        'Y':[[0, 0, 0, 0], 
-             [1, 1, 0, 1], 
-             [1, 0, 1, 1]]}
-
-uji = [1,0,1,1]
-
 def many_data(data):
     manyData = 0
     
@@ -50,7 +40,16 @@ def langkah_tiga(langkah_pertama, langkah_dua):
 def langkah_empat(langkah_tiga):
     return min(langkah_tiga, key=langkah_tiga.get)
     
+    
+data = {'T':[[0, 1, 1, 1], 
+             [0, 1, 0, 1], 
+             [0, 0, 1, 1], 
+             [1, 1, 1, 1]],
+        'Y':[[0, 0, 0, 0], 
+             [1, 1, 0, 1], 
+             [1, 0, 1, 1]]}
 
+uji = [1,0,1,1]
 
 manyData = many_data(data)
 pertama = langkah_pertama(data, manyData)
@@ -58,18 +57,7 @@ kedua = langkah_dua(data, uji)
 ketiga = langkah_tiga(pertama, kedua)
 keempat = langkah_empat(ketiga)
 
-# print(manyData)
 print("Hasil langkah pertama: " + str(pertama))
 print("Hasil langkah kedua: " + str(kedua))
 print("Hasil langkah ketiga: " + str(dict(ketiga)))
 print("Hasil langkah keempat: " + keempat)
-
-
-
-
-
-
-
-
-
-
